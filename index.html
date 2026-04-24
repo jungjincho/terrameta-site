@@ -3,48 +3,142 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Terra Meta</title>
-
+<title>Terra Meta Co., Ltd.</title>
 <style>
-body{
-margin:0;
-font-family:Arial, sans-serif;
-color:white;
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;color:#10213f;background:#fff}
+a{text-decoration:none;color:inherit}
+
+header{
+height:108px;background:#fff;display:flex;align-items:center;justify-content:space-between;
+padding:0 54px;border-bottom:1px solid #e5e7eb
 }
+.logo{display:flex;align-items:center;gap:18px;color:#0b2442}
+.logo-mark{font-family:Georgia,serif;font-size:48px;font-weight:bold;border:2px solid #0b2442;border-radius:50%;padding:2px 12px}
+.logo-text strong{font-family:Georgia,serif;font-size:34px;letter-spacing:.5px}
+.logo-text span{display:block;color:#8a8a8a;font-size:18px;margin-top:2px}
+nav{display:flex;align-items:center;gap:34px;font-size:14px;font-weight:700}
+nav a.active{color:#0b3d82;border-bottom:3px solid #0b3d82;padding-bottom:16px}
+.contact-top{background:#06234a;color:#fff;padding:17px 28px;border-radius:6px}
 
 .hero{
-height:100vh;
+min-height:500px;color:white;padding:80px 68px;
 background:
-linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-url('https://images.unsplash.com/photo-1494412685616-a5d310fbb07d');
-background-size:cover;
-background-position:center;
-display:flex;
-align-items:center;
-justify-content:center;
-text-align:center;
+linear-gradient(90deg,rgba(2,22,49,.96) 0%,rgba(2,22,49,.82) 38%,rgba(2,22,49,.25) 100%),
+url('https://images.unsplash.com/photo-1494412685616-a5d310fbb07d?auto=format&fit=crop&w=1800&q=85');
+background-size:cover;background-position:center;
 }
+.hero h1{font-family:Georgia,serif;font-size:66px;line-height:1.08;margin:0 0 22px;letter-spacing:1px}
+.gold{color:#e0a63b;font-size:22px;font-weight:800;margin-bottom:24px}
+.hero p{font-size:18px;line-height:1.8;max-width:580px}
+.hero .btn{display:inline-block;margin-top:22px;border:1px solid #e0a63b;padding:15px 34px;border-radius:4px;font-weight:800}
 
-h1{
-font-size:60px;
-margin-bottom:20px;
-}
+.features{display:grid;grid-template-columns:repeat(4,1fr);background:#f7f9fc;padding:32px 56px;border-bottom:1px solid #dde3ec}
+.feature{display:flex;gap:22px;padding:0 28px;border-right:1px solid #d6dde8}
+.feature:last-child{border-right:0}
+.icon{font-size:44px;color:#0b2442}
+.feature h3{font-size:16px;margin:0 0 8px;color:#0b2442}
+.feature p{font-size:14px;line-height:1.6;margin:0;color:#263d63}
 
-p{
-font-size:22px;
+section{padding:64px 70px}
+section h2{font-size:34px;margin:0 0 18px;color:#0b2442}
+section p{font-size:17px;line-height:1.8;color:#475569}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin-top:26px}
+.card{border:1px solid #e1e8f0;border-radius:14px;padding:28px;box-shadow:0 10px 25px rgba(0,0,0,.06);background:white}
+.card h3{margin:0 0 12px;color:#0b2442}
+.card p{font-size:15px;margin:0;color:#52627a}
+
+footer{background:#041f42;color:white;padding:36px 58px}
+.footer-grid{display:grid;grid-template-columns:1.2fr 1fr 1.3fr 1.1fr;gap:32px}
+footer h2{margin:0 0 12px}
+footer h3{color:#e0a63b;font-size:15px;margin:0 0 14px}
+footer p{color:#e7eef8;line-height:1.7;margin:0}
+.copy{text-align:center;border-top:1px solid rgba(255,255,255,.15);margin-top:28px;padding-top:18px;color:#ddd}
+
+@media(max-width:900px){
+header{height:auto;flex-direction:column;padding:20px;gap:16px}
+nav{flex-wrap:wrap;justify-content:center;gap:16px}
+.hero{padding:58px 28px}
+.hero h1{font-size:44px}
+.features,.grid,.footer-grid{grid-template-columns:1fr}
+.feature{border-right:0;border-bottom:1px solid #d6dde8;padding:20px 0}
 }
 </style>
-
 </head>
-
 <body>
 
+<header>
+  <div class="logo">
+    <div class="logo-mark">TM</div>
+    <div class="logo-text"><strong>TERRA META</strong><span>Terra Meta Co., Ltd.</span></div>
+  </div>
+  <nav>
+    <a class="active" href="#">HOME</a>
+    <a href="#about">ABOUT US</a>
+    <a href="#business">OUR BUSINESS</a>
+    <a href="#solutions">SOLUTIONS</a>
+    <a href="#partners">PARTNERS</a>
+    <a href="#news">NEWS</a>
+    <a class="contact-top" href="#contact">CONTACT US →</a>
+  </nav>
+</header>
+
 <div class="hero">
-<div>
-<h1>CONNECTING GLOBAL VALUE</h1>
-<p>Global Platform. Trusted Partners. Real Impact.</p>
+  <h1>CONNECTING<br>GLOBAL VALUE</h1>
+  <div class="gold">— Global Platform. Trusted Partners. Real Impact. —</div>
+  <p>Terra Meta connects global suppliers with real markets through trusted partnerships and practical solutions that drive sustainable value.</p>
+  <a class="btn" href="#contact">CONTACT US →</a>
 </div>
+
+<div class="features">
+  <div class="feature"><div class="icon">🌐</div><div><h3>GLOBAL NETWORK</h3><p>Connecting reliable suppliers and buyers across markets worldwide.</p></div></div>
+  <div class="feature"><div class="icon">👥</div><div><h3>BUSINESS PLATFORM</h3><p>Delivering practical solutions that empower partners and drive growth.</p></div></div>
+  <div class="feature"><div class="icon">🤝</div><div><h3>TRUST & PARTNERSHIP</h3><p>Building long-term relationships with integrity, transparency, and respect.</p></div></div>
+  <div class="feature"><div class="icon">📈</div><div><h3>REAL OPPORTUNITIES</h3><p>Creating new opportunities and sustainable value across industries and borders.</p></div></div>
 </div>
+
+<section id="about">
+  <h2>About Terra Meta</h2>
+  <p>Terra Meta Co., Ltd. is a Korea-based global business platform company focused on connecting reliable suppliers, qualified buyers, and strategic partners across international markets.</p>
+</section>
+
+<section id="business">
+  <h2>Our Business</h2>
+  <div class="grid">
+    <div class="card"><h3>Advanced Materials</h3><p>Business development for industrial and high-value materials.</p></div>
+    <div class="card"><h3>Copper Business</h3><p>High-purity copper powder and copper-related supply opportunities.</p></div>
+    <div class="card"><h3>Global Trading</h3><p>Connecting suppliers and buyers through reliable commercial channels.</p></div>
+  </div>
+</section>
+
+<section id="solutions">
+  <h2>Solutions</h2>
+  <div class="grid">
+    <div class="card"><h3>Market Access</h3><p>Supporting suppliers to enter practical and qualified markets.</p></div>
+    <div class="card"><h3>Partner Coordination</h3><p>Coordinating communication, negotiation, and execution.</p></div>
+    <div class="card"><h3>Opportunity Development</h3><p>Building sustainable business opportunities across industries.</p></div>
+  </div>
+</section>
+
+<section id="partners">
+  <h2>Partners</h2>
+  <p>Terra Meta values long-term cooperation with trusted partners based on transparency, responsibility, and mutual growth.</p>
+</section>
+
+<section id="news">
+  <h2>News</h2>
+  <p>Company updates and business news will be announced here.</p>
+</section>
+
+<footer id="contact">
+  <div class="footer-grid">
+    <div><h2>Terra Meta Co., Ltd.</h2><p>Global platform connecting opportunities, delivering value.</p></div>
+    <div><h3>CONTACT</h3><p>Tel: +82 70 4915 2724<br>Mobile: +82 10 2252 7782<br>Email: info@terrameta.co</p></div>
+    <div><h3>ADDRESS</h3><p>Chungminro10, 8F S16,<br>Songpa-gu, Seoul,<br>Republic of Korea<br>Zip Code: 05840</p></div>
+    <div><h3>CONNECT WITH US</h3><p>LinkedIn: /terrameta<br>Email: info@terrameta.co</p></div>
+  </div>
+  <div class="copy">© 2025 Terra Meta Co., Ltd. All rights reserved.</div>
+</footer>
 
 </body>
 </html>
