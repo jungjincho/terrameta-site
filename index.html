@@ -18,79 +18,58 @@
 
 *{box-sizing:border-box}
 body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--text)}
-a{text-decoration:none;color:inherit}
 
-/* HEADER */
 .header{
 height:100px;
 background:#fff;
 display:flex;
 align-items:center;
 justify-content:space-between;
-padding:0 50px;
+padding:0 40px;
 border-bottom:1px solid #eee;
-position:sticky;top:0;
+position:sticky;
+top:0;
+z-index:10;
 }
 
-.nav a{margin:0 15px;font-weight:700}
+.nav a{margin:0 15px;font-weight:bold}
 
-/* HERO (핵심 수정 부분) */
 .hero{
 min-height:600px;
 display:flex;
 align-items:center;
-color:#fff;
 padding:80px;
-position:relative;
+color:#fff;
 
-/* ✈️ 비행기 + 네트워크 느낌 */
+/* ✈️ 비행기 배경 */
 background:
 linear-gradient(rgba(6,31,67,0.75), rgba(6,31,67,0.85)),
 url('https://images.unsplash.com/photo-1504198453319-5ce911bafcde?auto=format&fit=crop&w=1600&q=80')
 center/cover no-repeat;
 }
 
-/* 네트워크 라인 효과 */
-.hero:after{
-content:"";
-position:absolute;
-inset:0;
-background:
-radial-gradient(circle at 20% 30%, rgba(255,255,255,0.3) 0 2px, transparent 3px),
-radial-gradient(circle at 60% 50%, rgba(255,255,255,0.3) 0 2px, transparent 3px),
-radial-gradient(circle at 80% 70%, rgba(255,255,255,0.3) 0 2px, transparent 3px),
-linear-gradient(20deg, transparent 60%, rgba(255,255,255,0.2) 61%, transparent 62%),
-linear-gradient(-20deg, transparent 55%, rgba(255,255,255,0.2) 56%, transparent 57%);
-opacity:0.4;
-}
-
-.hero-content{position:relative;z-index:2;max-width:600px}
-
 .hero h1{
-font-size:60px;
+font-size:56px;
 font-family:Georgia;
 margin-bottom:20px;
 }
 
-.hero p{font-size:18px;line-height:1.7}
-
 .btn{
 display:inline-block;
-margin-top:25px;
-padding:14px 30px;
+margin-top:20px;
+padding:14px 28px;
 border:1px solid var(--gold);
 color:#fff;
+text-decoration:none;
 }
 
-/* SECTION */
 section{padding:60px}
-h2{color:var(--navy)}
 
 .footer{
 background:#041f42;
 color:#fff;
-padding:40px;
 text-align:center;
+padding:30px;
 }
 </style>
 </head>
@@ -108,20 +87,20 @@ text-align:center;
 </header>
 
 <section class="hero">
-<div class="hero-content">
-<h1>CONNECTING<br>GLOBAL VALUE</h1>
-<p>We connect global suppliers and markets through trusted partnerships and real business execution.</p>
+<div>
+<h1>CONNECTING GLOBAL VALUE</h1>
+<p>We connect global suppliers and markets through trusted partnerships.</p>
 <a class="btn" href="mailto:contact@terrameta.co">CONTACT US</a>
 </div>
 </section>
 
 <section>
 <h2>Our Business</h2>
-<p>High purity copper supply and global trading platform connecting real opportunities.</p>
+<p>High purity copper supply and global trading platform.</p>
 </section>
 
 <footer class="footer">
-<p>Contact: contact@terrameta.co</p>
+<p>contact@terrameta.co</p>
 <p>© Terra Meta Co., Ltd.</p>
 </footer>
 
