@@ -1,106 +1,175 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TERRAMETA</title>
 
-<title>6N Copper Supplier | Ultra High Purity Copper | Terra Meta</title>
+  <style>
+    * {margin:0; padding:0; box-sizing:border-box;}
 
-<meta name="description" content="Terra Meta is a supplier of 6N ultra high purity copper (99.9999%) and copper powder for semiconductor, research, and high precision industries.">
-<meta name="keywords" content="6N copper, ultra high purity copper, 99.9999 copper, copper powder">
-<meta name="robots" content="index, follow">
+    body {
+      font-family: Arial, sans-serif;
+      background:#fff;
+      color:#06142d;
+    }
 
-<style>
-:root{--navy:#061f43;--blue:#0b3d82;--gold:#d9a441;--light:#f4f7fb;--text:#10213f;--muted:#5b6b83;--border:#dde6f1}
-*{box-sizing:border-box}
-body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--text)}
-a{text-decoration:none;color:inherit}
+    header {
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:20px 50px;
+      border-bottom:1px solid #eee;
+      background:#fff;
+    }
 
-.header{height:100px;background:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 50px;border-bottom:1px solid #eee}
-.nav a{margin:0 15px;font-weight:bold}
+    .logo {
+      display:flex;
+      align-items:center;
+      gap:15px;
+    }
 
-.hero{padding:100px 60px;background:linear-gradient(110deg,#041a39,#07316a);color:#fff}
-.hero h1{font-size:60px;margin:0}
-.hero .tagline{color:gold;margin:20px 0;font-size:20px}
-.btn{display:inline-block;margin-top:20px;border:1px solid gold;padding:10px 25px}
+    .logo img {
+      height:50px;
+    }
 
-section{padding:60px}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
-.card{border:1px solid #ddd;padding:20px;border-radius:10px}
+    nav a {
+      margin-left:30px;
+      text-decoration:none;
+      color:#06142d;
+      font-weight:bold;
+    }
 
-.footer{background:#041f42;color:#fff;padding:40px}
-</style>
+    .hero {
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:80px;
+      background:linear-gradient(120deg,#06142d,#0b3972);
+      color:white;
+    }
+
+    .hero h1 {
+      font-size:60px;
+      line-height:1.1;
+    }
+
+    .hero span {
+      color:#3d82ff;
+    }
+
+    .hero p {
+      margin-top:20px;
+      font-size:18px;
+      color:#ddd;
+    }
+
+    .hero img {
+      width:350px;
+    }
+
+    .btn {
+      display:inline-block;
+      margin-top:25px;
+      padding:12px 24px;
+      background:#2568dc;
+      color:white;
+      text-decoration:none;
+      border-radius:6px;
+    }
+
+    .section {
+      padding:60px;
+    }
+
+    .cards {
+      display:grid;
+      grid-template-columns:repeat(4,1fr);
+      margin-top:40px;
+      border-top:1px solid #ddd;
+      border-left:1px solid #ddd;
+    }
+
+    .card {
+      padding:30px;
+      border-right:1px solid #ddd;
+      border-bottom:1px solid #ddd;
+      text-align:center;
+    }
+
+    footer {
+      padding:25px 60px;
+      background:#06142d;
+      color:white;
+      display:flex;
+      justify-content:space-between;
+    }
+
+    .footer-logo {
+      font-weight:bold;
+      letter-spacing:2px;
+    }
+
+    @media(max-width:900px){
+      .hero {flex-direction:column;}
+      .cards {grid-template-columns:1fr 1fr;}
+    }
+  </style>
 </head>
 
 <body>
 
-<header class="header">
-<div><b>TERRA META</b></div>
-<nav class="nav">
-<a href="#top">HOME</a>
-<a href="#about">ABOUT</a>
-<a href="#business">BUSINESS</a>
-<a href="#products">PRODUCTS</a>
-<a href="#news">NEWS</a>
-<a href="#contact">CONTACT</a>
-</nav>
+<header>
+  <div class="logo">
+    <img src="tm-logo.png" alt="TM">
+    <img src="terrameta-text.png" alt="TERRAMETA">
+  </div>
+
+  <nav>
+    <a href="#">ABOUT</a>
+    <a href="#">SOLUTIONS</a>
+    <a href="#">TECH</a>
+    <a href="#">CONTACT</a>
+  </nav>
 </header>
 
-<section class="hero" id="top">
-<h1>ULTRA HIGH PURITY COPPER</h1>
-<div class="tagline">6N Copper (99.9999%) for Semiconductor & Advanced Industries</div>
-<p>Terra Meta supplies ultra high purity 6N copper and copper powder for global markets.</p>
-<a class="btn" href="#contact">REQUEST QUOTE →</a>
+<section class="hero">
+  <div>
+    <h1>
+      CONNECT.<br>
+      CREATE.<br>
+      <span>GROW.</span><br>
+      TOGETHER.
+    </h1>
+
+    <p>
+      TERRAMETA connects technology and innovation<br>
+      to create future digital value.
+    </p>
+
+    <a href="#" class="btn">Learn More</a>
+  </div>
+
+  <img src="tm-logo.png" alt="TM Graphic">
 </section>
 
-<section id="about">
-<h2>About</h2>
-<p>We specialize in 6N ultra high purity copper (99.9999%) supply and advanced materials.</p>
+<section class="section">
+  <h2>Our Core Values</h2>
+
+  <div class="cards">
+    <div class="card"><h3>CONNECT</h3></div>
+    <div class="card"><h3>CREATE</h3></div>
+    <div class="card"><h3>GROW</h3></div>
+    <div class="card"><h3>TOGETHER</h3></div>
+  </div>
 </section>
 
-<section id="business">
-<h2>Business</h2>
-<div class="grid">
-<div class="card"><h3>Advanced Materials</h3></div>
-<div class="card"><h3>Copper Supply</h3></div>
-<div class="card"><h3>Global Trading</h3></div>
-</div>
-</section>
-
-<section id="products">
-<h2>6N Copper</h2>
-<div class="grid">
-<div class="card"><h3>Purity</h3><p>99.9999% ultra high purity copper</p></div>
-<div class="card"><h3>Applications</h3><p>Semiconductor / Research</p></div>
-<div class="card"><h3>Copper Powder</h3><p>High purity copper powder</p></div>
-</div>
-</section>
-
-<section id="news">
-<h2>News</h2>
-<div class="grid">
-<div class="card">
-<h3>MINING.com</h3>
-<p>Copper industry news</p>
-<a href="https://www.mining.com/commodity/copper/" target="_blank">Visit →</a>
-</div>
-<div class="card">
-<h3>Investing.com</h3>
-<p>Market updates</p>
-<a href="https://www.investing.com/commodities/copper-news" target="_blank">Visit →</a>
-</div>
-<div class="card">
-<h3>Kitco</h3>
-<p>Metals news</p>
-<a href="https://www.kitco.com/" target="_blank">Visit →</a>
-</div>
-</div>
-</section>
-
-<footer class="footer" id="contact">
-<h2>Terra Meta</h2>
-<p>Email: contact@terrameta.co</p>
+<footer>
+  <div class="footer-logo">TERRAMETA</div>
+  <div>© 2026 TERRAMETA Co., Ltd.</div>
 </footer>
 
 </body>
 </html>
+```
