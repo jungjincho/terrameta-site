@@ -1,4 +1,4 @@
-```html
+```html id="index-file"
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,34 +8,26 @@
 
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
-body{font-family:Arial,Helvetica,sans-serif;background:#fff;color:#06142d}
+body{font-family:Arial;background:#fff;color:#06142d}
 
-/* HEADER */
 header{
-position:sticky;top:0;z-index:1000;
-background:#fff;border-bottom:1px solid #eee;
-padding:18px 20px;
+padding:20px;
+border-bottom:1px solid #eee;
 text-align:center;
 }
 
-.brand{
-font-size:28px;
+.logo{
+font-size:26px;
 font-weight:900;
-letter-spacing:2px;
 }
 
 nav{
 margin-top:10px;
 display:flex;
 justify-content:center;
-gap:18px;
-flex-wrap:wrap;
+gap:20px;
 }
 
-nav a{font-weight:700}
-
-/* HERO */
 .hero{
 padding:80px 20px;
 background:linear-gradient(120deg,#06142d,#0b3972);
@@ -43,62 +35,17 @@ color:white;
 text-align:center;
 }
 
-.hero h1{font-size:40px;line-height:1.2}
-.hero span{color:#3d82ff}
-
-.hero p{margin-top:15px}
-
-/* SECTION */
 section{
 padding:60px 20px;
 text-align:center;
-scroll-margin-top:120px;
 }
 
-.cards{
-display:grid;
-grid-template-columns:repeat(4,1fr);
-gap:10px;
-margin-top:20px;
-}
-
-.card{
-border:1px solid #ddd;
-padding:20px;
-}
-
-/* NEWS */
-.news-list{
-margin-top:20px;
-display:grid;
-gap:15px;
-max-width:700px;
-margin-left:auto;
-margin-right:auto;
-}
-
-.news-item{
-border:1px solid #ddd;
-padding:18px;
-border-radius:8px;
-text-align:left;
-}
-
-/* FOOTER */
 footer{
 background:#06142d;
 color:white;
-padding:30px 20px;
+padding:30px;
 text-align:center;
 margin-top:40px;
-}
-
-footer p{font-size:14px;color:#ccc}
-
-/* MOBILE */
-@media(max-width:800px){
-.cards{grid-template-columns:1fr 1fr}
-.hero h1{font-size:28px}
 }
 </style>
 </head>
@@ -106,77 +53,25 @@ footer p{font-size:14px;color:#ccc}
 <body>
 
 <header>
-<div class="brand">TERRA META</div>
+<div class="logo">TERRA META</div>
 
 <nav>
-<a href="#about">ABOUT</a>
-<a href="#solutions">SOLUTIONS</a>
-<a href="#technology">TECH</a>
-<a href="#news">NEWS</a>
+<a href="index.html">HOME</a>
+<a href="news.html">NEWS</a>
 </nav>
 </header>
 
 <section class="hero">
-<h1>
-CONNECT.<br>
-CREATE.<br>
-<span>GROW.</span><br>
-TOGETHER.
-</h1>
-<p>Terra Meta connects technology and innovation to create future value.</p>
+<h1>CONNECT. CREATE. GROW.</h1>
+<p>Terra Meta connects technology and innovation.</p>
 </section>
 
-<section id="about">
+<section>
 <h2>About</h2>
-<div class="cards">
-<div class="card">CONNECT</div>
-<div class="card">CREATE</div>
-<div class="card">GROW</div>
-<div class="card">TOGETHER</div>
-</div>
-</section>
-
-<section id="solutions">
-<h2>Solutions</h2>
-<p>Business development, digital transformation, platform strategy.</p>
-</section>
-
-<section id="technology">
-<h2>Technology</h2>
-<p>Scalable digital frameworks and future-ready systems.</p>
-</section>
-
-<section id="news">
-<h2>News</h2>
-
-<div class="news-list">
-
-<div class="news-item">
-<h3>Terra Meta Launch Announcement</h3>
-<p>Terra Meta officially launched its integrated platform.</p>
-</div>
-
-<div class="news-item">
-<h3>Partnership Expansion</h3>
-<p>Strategic partnerships are expanding across industries.</p>
-</div>
-
-<div class="news-item">
-<h3>Technology Update</h3>
-<p>New scalable architecture has been developed.</p>
-</div>
-
-</div>
-
+<p>Terra Meta Co., Ltd.</p>
 </section>
 
 <footer>
-<p>Terra Meta Co., Ltd.</p>
-<p>CEO: Jungjin Cho</p>
-<p>Email: contact@trrameta.co</p>
-<p>Mobile: +82 10 2252 7782</p>
-<p>Tel: +82 70 4915 2724</p>
-<p>Seoul, Republic of Korea</p>
 <p>© 2026 Terra Meta Co., Ltd.</p>
 </footer>
 
