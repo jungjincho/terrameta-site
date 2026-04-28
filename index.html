@@ -1,4 +1,4 @@
-```html id="final-index"
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,40 +9,49 @@
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{font-family:Arial;background:#fff;color:#06142d;text-align:center}
+body{font-family:Arial,Helvetica,sans-serif;background:#fff;color:#06142d}
 
+/* HEADER */
 header{
 position:sticky;top:0;z-index:1000;
 background:#fff;border-bottom:1px solid #eee;
-padding:15px 20px;
+padding:18px 20px;
+text-align:center;
 }
 
-.logo{
-font-size:26px;
-font-weight:bold;
+.brand{
+font-size:28px;
+font-weight:900;
+letter-spacing:2px;
 }
 
 nav{
 margin-top:10px;
 display:flex;
 justify-content:center;
-gap:20px;
+gap:18px;
 flex-wrap:wrap;
 }
 
-nav a{font-weight:bold}
+nav a{font-weight:700}
 
+/* HERO */
 .hero{
 padding:80px 20px;
 background:linear-gradient(120deg,#06142d,#0b3972);
 color:white;
+text-align:center;
 }
 
-.hero h1{font-size:40px}
+.hero h1{font-size:40px;line-height:1.2}
 .hero span{color:#3d82ff}
 
+.hero p{margin-top:15px}
+
+/* SECTION */
 section{
 padding:60px 20px;
+text-align:center;
 scroll-margin-top:120px;
 }
 
@@ -58,31 +67,38 @@ border:1px solid #ddd;
 padding:20px;
 }
 
+/* NEWS */
 .news-list{
 margin-top:20px;
 display:grid;
-gap:20px;
+gap:15px;
+max-width:700px;
+margin-left:auto;
+margin-right:auto;
 }
 
 .news-item{
 border:1px solid #ddd;
-padding:20px;
-border-radius:10px;
+padding:18px;
+border-radius:8px;
 text-align:left;
 }
 
+/* FOOTER */
 footer{
 background:#06142d;
 color:white;
 padding:30px 20px;
+text-align:center;
 margin-top:40px;
 }
 
 footer p{font-size:14px;color:#ccc}
 
+/* MOBILE */
 @media(max-width:800px){
 .cards{grid-template-columns:1fr 1fr}
-.hero h1{font-size:30px}
+.hero h1{font-size:28px}
 }
 </style>
 </head>
@@ -90,7 +106,7 @@ footer p{font-size:14px;color:#ccc}
 <body>
 
 <header>
-<div class="logo">TERRA META</div>
+<div class="brand">TERRA META</div>
 
 <nav>
 <a href="#about">ABOUT</a>
@@ -130,7 +146,6 @@ TOGETHER.
 <p>Scalable digital frameworks and future-ready systems.</p>
 </section>
 
-<!-- ✅ NEWS 정상 + 내용 포함 -->
 <section id="news">
 <h2>News</h2>
 
@@ -138,17 +153,17 @@ TOGETHER.
 
 <div class="news-item">
 <h3>Terra Meta Launch Announcement</h3>
-<p>Terra Meta officially launched its integrated technology platform to support digital transformation.</p>
+<p>Terra Meta officially launched its integrated platform.</p>
 </div>
 
 <div class="news-item">
 <h3>Partnership Expansion</h3>
-<p>The company is expanding strategic partnerships across multiple industries to accelerate growth.</p>
+<p>Strategic partnerships are expanding across industries.</p>
 </div>
 
 <div class="news-item">
-<h3>Technology Development Update</h3>
-<p>New scalable architecture has been developed to enhance performance and reliability.</p>
+<h3>Technology Update</h3>
+<p>New scalable architecture has been developed.</p>
 </div>
 
 </div>
