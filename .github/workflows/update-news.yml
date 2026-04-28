@@ -2,6 +2,8 @@ name: Update AI Tech News
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *" # 6시간마다 실행 (UTC 기준)
 
 permissions:
   contents: write
@@ -11,21 +13,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Run script
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run news update script
         run: node scripts/update-news.js
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
 
-      - name: Commit changes
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update news
+          commit_message: "Update AI tech news"
           file_pattern: news.json
+          branch: main
