@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-04-28",
+    "title": "TerraMeta News Title Goes Here",
+    "summary": "Add a short summary of the news article here. Two or three lines work best.",
+    "image": "images/news-01.jpg",
+    "link": "#"
+  },
+  {
+    "date": "2026-04-20",
+    "title": "Announcement Title Goes Here",
+    "summary": "Add a brief description for announcements, press releases, or company updates.",
+    "image": "images/news-02.jpg",
+    "link": "#"
+  },
+  {
+    "date": "2026-04-10",
+    "title": "Update Title Goes Here",
+    "summary": "Introduce the latest company updates, activities, or important notices.",
+    "image": "images/news-03.jpg",
+    "link": "#"
+  }
+]

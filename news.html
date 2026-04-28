@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>News | TERRAMETA</title>
+  <title>News | TerraMeta</title>
 
   <style>
     :root {
@@ -12,14 +12,11 @@
       --muted: #6b7280;
       --line: #e5e7eb;
       --bg: #ffffff;
-      --soft-bg: #f9fafb;
       --accent: #2563eb;
       --max-width: 1180px;
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     body {
       margin: 0;
@@ -29,22 +26,14 @@
       line-height: 1.6;
     }
 
-    a {
-      color: inherit;
-      text-decoration: none;
-    }
-
-    img {
-      max-width: 100%;
-      display: block;
-    }
+    a { color: inherit; text-decoration: none; }
+    img { max-width: 100%; display: block; }
 
     .container {
       width: min(100% - 40px, var(--max-width));
       margin: 0 auto;
     }
 
-    /* Header */
     .site-header {
       position: sticky;
       top: 0;
@@ -84,9 +73,7 @@
     }
 
     .nav a:hover,
-    .nav a.active {
-      color: var(--accent);
-    }
+    .nav a.active { color: var(--accent); }
 
     .nav a.active::after {
       content: "";
@@ -106,7 +93,6 @@
       cursor: pointer;
     }
 
-    /* Page hero */
     .page-hero {
       padding: 80px 0 56px;
       background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%);
@@ -128,10 +114,7 @@
       color: var(--muted);
     }
 
-    /* News */
-    .news-section {
-      padding: 70px 0 100px;
-    }
+    .news-section { padding: 70px 0 100px; }
 
     .news-grid {
       display: grid;
@@ -155,16 +138,16 @@
     .thumb {
       height: 210px;
       background: #eef2f7;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: #94a3b8;
-      font-weight: 700;
+      overflow: hidden;
     }
 
-    .news-content {
-      padding: 24px;
+    .thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
+
+    .news-content { padding: 24px; }
 
     .news-date {
       display: block;
@@ -193,7 +176,14 @@
       font-size: 15px;
     }
 
-    /* Footer */
+    .empty-message {
+      padding: 40px;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      text-align: center;
+      color: var(--muted);
+    }
+
     .site-footer {
       border-top: 1px solid var(--line);
       background: var(--primary);
@@ -208,9 +198,7 @@
       flex-wrap: wrap;
     }
 
-    .footer-brand {
-      max-width: 420px;
-    }
+    .footer-brand { max-width: 420px; }
 
     .footer-logo {
       margin-bottom: 14px;
@@ -232,9 +220,7 @@
       font-size: 14px;
     }
 
-    .footer-links a:hover {
-      color: #fff;
-    }
+    .footer-links a:hover { color: #fff; }
 
     .copyright {
       margin-top: 38px;
@@ -245,9 +231,7 @@
     }
 
     @media (max-width: 900px) {
-      .menu-toggle {
-        display: block;
-      }
+      .menu-toggle { display: block; }
 
       .nav {
         display: none;
@@ -265,35 +249,16 @@
         box-shadow: 0 16px 32px rgba(17, 24, 39, 0.1);
       }
 
-      .nav.open {
-        display: flex;
-      }
-
-      .news-grid {
-        grid-template-columns: 1fr 1fr;
-      }
+      .nav.open { display: flex; }
+      .news-grid { grid-template-columns: 1fr 1fr; }
     }
 
     @media (max-width: 640px) {
-      .container {
-        width: min(100% - 28px, var(--max-width));
-      }
-
-      .page-hero {
-        padding: 60px 0 42px;
-      }
-
-      .news-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .header-inner {
-        height: 68px;
-      }
-
-      .nav {
-        top: 68px;
-      }
+      .container { width: min(100% - 28px, var(--max-width)); }
+      .page-hero { padding: 60px 0 42px; }
+      .news-grid { grid-template-columns: 1fr; }
+      .header-inner { height: 68px; }
+      .nav { top: 68px; }
     }
   </style>
 </head>
@@ -301,7 +266,7 @@
 <body>
   <header class="site-header">
     <div class="container header-inner">
-      <a href="index.html" class="logo">TERRAMETA</a>
+      <a href="index.html" class="logo">TerraMeta</a>
 
       <nav class="nav" id="nav">
         <a href="index.html">Home</a>
@@ -319,48 +284,15 @@
     <section class="page-hero">
       <div class="container">
         <h1>News</h1>
-        <p>Stay updated with the latest news and announcements from TERRAMETA.</p>
+        <p>Stay updated with the latest news and announcements from TerraMeta.</p>
       </div>
     </section>
 
     <section class="news-section">
       <div class="container">
-        <div class="news-grid">
-          <article class="news-card">
-            <a href="#">
-              <div class="thumb">NEWS IMAGE</div>
-              <div class="news-content">
-                <span class="news-date">2026.04.28</span>
-                <h2 class="news-title">TERRAMETA News Title Goes Here</h2>
-                <p class="news-desc">Add a short summary of the news article here. Two or three lines work best.</p>
-                <span class="read-more">Read More →</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="news-card">
-            <a href="#">
-              <div class="thumb">NEWS IMAGE</div>
-              <div class="news-content">
-                <span class="news-date">2026.04.28</span>
-                <h2 class="news-title">Announcement Title Goes Here</h2>
-                <p class="news-desc">Add a brief description for announcements, press releases, or updates.</p>
-                <span class="read-more">Read More →</span>
-              </div>
-            </a>
-          </article>
-
-          <article class="news-card">
-            <a href="#">
-              <div class="thumb">NEWS IMAGE</div>
-              <div class="news-content">
-                <span class="news-date">2026.04.28</span>
-                <h2 class="news-title">Update Title Goes Here</h2>
-                <p class="news-desc">Introduce the latest company updates, activities, or important notices.</p>
-                <span class="read-more">Read More →</span>
-              </div>
-            </a>
-          </article>
+        <div class="news-grid" id="newsGrid"></div>
+        <div class="empty-message" id="emptyMessage" style="display:none;">
+          No news has been published yet.
         </div>
       </div>
     </section>
@@ -370,8 +302,8 @@
     <div class="container">
       <div class="footer-inner">
         <div class="footer-brand">
-          <div class="footer-logo">TERRAMETA</div>
-          <p>Official website of TERRAMETA. Explore our company, business, news, and contact information.</p>
+          <div class="footer-logo">TerraMeta</div>
+          <p>Official website of TerraMeta. Explore our company, business, news, and contact information.</p>
         </div>
 
         <div class="footer-links">
@@ -384,7 +316,7 @@
       </div>
 
       <div class="copyright">
-        © 2026 TERRAMETA. All rights reserved.
+        © 2026 TerraMeta. All rights reserved.
       </div>
     </div>
   </footer>
@@ -393,6 +325,71 @@
     function toggleMenu() {
       document.getElementById("nav").classList.toggle("open");
     }
+
+    function formatDate(dateText) {
+      const date = new Date(dateText);
+      if (Number.isNaN(date.getTime())) return dateText;
+      return date.toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "short",
+        day: "numeric"
+      });
+    }
+
+    function escapeHtml(text) {
+      return String(text || "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    async function loadNews() {
+      const grid = document.getElementById("newsGrid");
+      const emptyMessage = document.getElementById("emptyMessage");
+
+      try {
+        const response = await fetch("news.json?version=" + Date.now());
+        const newsItems = await response.json();
+
+        if (!Array.isArray(newsItems) || newsItems.length === 0) {
+          emptyMessage.style.display = "block";
+          return;
+        }
+
+        newsItems
+          .sort((a, b) => new Date(b.date) - new Date(a.date))
+          .forEach((item) => {
+            const article = document.createElement("article");
+            article.className = "news-card";
+
+            const image = item.image || "images/news-default.jpg";
+            const link = item.link || "#";
+
+            article.innerHTML = `
+              <a href="${escapeHtml(link)}">
+                <div class="thumb">
+                  <img src="${escapeHtml(image)}" alt="${escapeHtml(item.title)}" loading="lazy">
+                </div>
+                <div class="news-content">
+                  <span class="news-date">${escapeHtml(formatDate(item.date))}</span>
+                  <h2 class="news-title">${escapeHtml(item.title)}</h2>
+                  <p class="news-desc">${escapeHtml(item.summary)}</p>
+                  <span class="read-more">Read More →</span>
+                </div>
+              </a>
+            `;
+
+            grid.appendChild(article);
+          });
+      } catch (error) {
+        emptyMessage.textContent = "Unable to load news. Please check news.json.";
+        emptyMessage.style.display = "block";
+      }
+    }
+
+    loadNews();
   </script>
 </body>
 </html>
