@@ -1,4 +1,4 @@
-```html
+```html id="final-index"
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,62 +9,80 @@
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{font-family:Arial;background:#fff;color:#06142d}
-a{text-decoration:none;color:inherit}
+body{font-family:Arial;background:#fff;color:#06142d;text-align:center}
 
-/* HEADER */
 header{
-position:sticky;top:0;
-display:flex;justify-content:space-between;align-items:center;
-padding:20px 40px;background:#fff;border-bottom:1px solid #eee;
-z-index:100;
+position:sticky;top:0;z-index:1000;
+background:#fff;border-bottom:1px solid #eee;
+padding:15px 20px;
 }
-.logo{font-size:26px;font-weight:bold}
 
-nav{display:flex;gap:20px}
+.logo{
+font-size:26px;
+font-weight:bold;
+}
+
+nav{
+margin-top:10px;
+display:flex;
+justify-content:center;
+gap:20px;
+flex-wrap:wrap;
+}
+
 nav a{font-weight:bold}
 
-/* HERO */
 .hero{
 padding:80px 20px;
 background:linear-gradient(120deg,#06142d,#0b3972);
-color:white;text-align:center;
+color:white;
 }
-.hero h1{font-size:42px}
-.hero span{color:#3d82ff}
-.hero p{margin-top:15px}
 
-/* SECTION */
-section{padding:60px 20px;text-align:center}
-section h2{margin-bottom:20px}
+.hero h1{font-size:40px}
+.hero span{color:#3d82ff}
+
+section{
+padding:60px 20px;
+scroll-margin-top:120px;
+}
 
 .cards{
 display:grid;
 grid-template-columns:repeat(4,1fr);
-gap:10px;margin-top:20px;
+gap:10px;
+margin-top:20px;
 }
+
 .card{
 border:1px solid #ddd;
 padding:20px;
 }
 
-/* FOOTER */
+.news-list{
+margin-top:20px;
+display:grid;
+gap:20px;
+}
+
+.news-item{
+border:1px solid #ddd;
+padding:20px;
+border-radius:10px;
+text-align:left;
+}
+
 footer{
-background:#06142d;color:white;
-padding:30px 20px;text-align:center;
+background:#06142d;
+color:white;
+padding:30px 20px;
 margin-top:40px;
 }
+
 footer p{font-size:14px;color:#ccc}
 
-/* 🔥 NEWS FIX */
-#news{
-scroll-margin-top:100px;
-}
-
-/* MOBILE */
 @media(max-width:800px){
 .cards{grid-template-columns:1fr 1fr}
-.hero h1{font-size:32px}
+.hero h1{font-size:30px}
 }
 </style>
 </head>
@@ -112,18 +130,39 @@ TOGETHER.
 <p>Scalable digital frameworks and future-ready systems.</p>
 </section>
 
-<!-- ✅ NEWS 정상 작동 -->
+<!-- ✅ NEWS 정상 + 내용 포함 -->
 <section id="news">
 <h2>News</h2>
-<p>Latest updates and company announcements.</p>
+
+<div class="news-list">
+
+<div class="news-item">
+<h3>Terra Meta Launch Announcement</h3>
+<p>Terra Meta officially launched its integrated technology platform to support digital transformation.</p>
+</div>
+
+<div class="news-item">
+<h3>Partnership Expansion</h3>
+<p>The company is expanding strategic partnerships across multiple industries to accelerate growth.</p>
+</div>
+
+<div class="news-item">
+<h3>Technology Development Update</h3>
+<p>New scalable architecture has been developed to enhance performance and reliability.</p>
+</div>
+
+</div>
+
 </section>
 
 <footer>
 <p>Terra Meta Co., Ltd.</p>
+<p>CEO: Jungjin Cho</p>
 <p>Email: contact@trrameta.co</p>
 <p>Mobile: +82 10 2252 7782</p>
 <p>Tel: +82 70 4915 2724</p>
 <p>Seoul, Republic of Korea</p>
+<p>© 2026 Terra Meta Co., Ltd.</p>
 </footer>
 
 </body>
