@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>News | TerraMeta</title>
-
   <style>
     :root {
       --primary: #111827;
@@ -149,9 +148,15 @@
 
     .news-content { padding: 24px; }
 
+    .news-source {
+      font-size: 13px;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
     .news-date {
       display: block;
-      margin-bottom: 10px;
+      margin: 6px 0 10px;
       font-size: 14px;
       color: var(--muted);
     }
@@ -283,8 +288,8 @@
   <main>
     <section class="page-hero">
       <div class="container">
-        <h1>News</h1>
-        <p>Stay updated with the latest news and announcements from TerraMeta.</p>
+        <h1>AI + Tech News</h1>
+        <p>Automatically updated technology and AI headlines curated for TerraMeta.</p>
       </div>
     </section>
 
@@ -292,7 +297,7 @@
       <div class="container">
         <div class="news-grid" id="newsGrid"></div>
         <div class="empty-message" id="emptyMessage" style="display:none;">
-          No news has been published yet.
+          No news is available yet.
         </div>
       </div>
     </section>
@@ -328,7 +333,7 @@
 
     function formatDate(dateText) {
       const date = new Date(dateText);
-      if (Number.isNaN(date.getTime())) return dateText;
+      if (Number.isNaN(date.getTime())) return dateText || "";
       return date.toLocaleDateString("en-US", {
         year: "numeric",
         month: "short",
@@ -360,23 +365,24 @@
 
         newsItems
           .sort((a, b) => new Date(b.date) - new Date(a.date))
+          .slice(0, 12)
           .forEach((item) => {
             const article = document.createElement("article");
             article.className = "news-card";
-
             const image = item.image || "images/news-default.jpg";
             const link = item.link || "#";
 
             article.innerHTML = `
-              <a href="${escapeHtml(link)}">
+              <a href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">
                 <div class="thumb">
-                  <img src="${escapeHtml(image)}" alt="${escapeHtml(item.title)}" loading="lazy">
+                  <img src="${escapeHtml(image)}" alt="${escapeHtml(item.title)}" loading="lazy" onerror="this.src='images/news-default.jpg'">
                 </div>
                 <div class="news-content">
+                  <div class="news-source">${escapeHtml(item.source || "News")}</div>
                   <span class="news-date">${escapeHtml(formatDate(item.date))}</span>
                   <h2 class="news-title">${escapeHtml(item.title)}</h2>
                   <p class="news-desc">${escapeHtml(item.summary)}</p>
-                  <span class="read-more">Read More →</span>
+                  <span class="read-more">Read Original →</span>
                 </div>
               </a>
             `;

@@ -1,0 +1,9 @@
+{
+  "name": "terrameta-news-auto",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Auto-updates TerraMeta AI + Tech news from GNews.",
+  "scripts": {
+    "update-news": "node scripts/update-news.js"
+  }
+}
