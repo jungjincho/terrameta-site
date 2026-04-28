@@ -1,128 +1,398 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Terra Meta News</title>
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:Arial,Helvetica,sans-serif;background:#fff;color:#06142d}
-a{text-decoration:none;color:inherit}
-header{padding:18px 42px;border-bottom:1px solid #dbe3ef;background:#fff}
-.header-inner{max-width:1180px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:24px}
-.brand{display:flex;align-items:center;gap:14px;font-weight:900}
-.brand-mark{width:58px;height:58px;border-radius:16px;display:grid;place-items:center;background:linear-gradient(135deg,#0a2c62,#2d74ff);color:#fff}
-.brand-name{font-size:22px;letter-spacing:.08em}
-.back{font-weight:800;color:#2568dc}
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>News | TERRAMETA</title>
 
-.hero{background:linear-gradient(120deg,#06142d,#0b3972);color:#fff;padding:82px 56px}
-.hero-inner{max-width:1180px;margin:0 auto}
-.hero h1{font-size:54px;margin-bottom:14px}
-.hero p{font-size:18px;color:#dbe6f5}
+  <style>
+    :root {
+      --primary: #111827;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --bg: #ffffff;
+      --soft-bg: #f9fafb;
+      --accent: #2563eb;
+      --max-width: 1180px;
+    }
 
-.container{max-width:1180px;margin:0 auto;padding:70px 56px}
+    * {
+      box-sizing: border-box;
+    }
 
-.pinned{
-  border:2px solid #2568dc;
-  border-radius:22px;
-  padding:34px;
-  margin-bottom:32px;
-  background:linear-gradient(180deg,#f6f9ff,#ffffff);
-  box-shadow:0 18px 42px rgba(37,104,220,.10);
-}
-.badge{display:inline-block;background:#2568dc;color:#fff;font-size:12px;font-weight:900;letter-spacing:.12em;padding:7px 12px;border-radius:999px;margin-bottom:16px}
-.pinned h2{font-size:32px;margin-bottom:12px}
-.pinned p{line-height:1.75;color:#5b6878;font-size:16px;margin-bottom:22px}
-.btn{display:inline-block;background:#2568dc;color:#fff;font-weight:900;padding:14px 24px;border-radius:12px}
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      line-height: 1.6;
+    }
 
-.news-item{padding:30px;border:1px solid #dbe3ef;border-radius:18px;margin-bottom:22px;background:#fff}
-.news-item small{font-weight:900;color:#2568dc;letter-spacing:.08em}
-.news-item h2{font-size:26px;margin:12px 0}
-.news-item p{line-height:1.75;color:#5b6878;font-size:16px}
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
 
-footer{background:#06142d;color:#fff;text-align:center;padding:42px 24px}
-footer p{color:rgba(255,255,255,.76);font-size:14px;line-height:1.8}
+    img {
+      max-width: 100%;
+      display: block;
+    }
 
-@media(max-width:900px){
-  header{padding:16px 20px}
-  .header-inner{flex-direction:column}
-  .hero{text-align:center;padding:60px 24px}
-  .hero h1{font-size:40px}
-  .container{padding:50px 24px}
-  .pinned,.news-item{text-align:center}
-}
-</style>
+    .container {
+      width: min(100% - 40px, var(--max-width));
+      margin: 0 auto;
+    }
+
+    /* Header */
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(255, 255, 255, 0.94);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .header-inner {
+      height: 76px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 32px;
+    }
+
+    .logo {
+      font-size: 24px;
+      font-weight: 800;
+      letter-spacing: -0.04em;
+      color: var(--primary);
+    }
+
+    .nav {
+      display: flex;
+      align-items: center;
+      gap: 30px;
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--primary);
+    }
+
+    .nav a {
+      position: relative;
+      padding: 6px 0;
+    }
+
+    .nav a:hover,
+    .nav a.active {
+      color: var(--accent);
+    }
+
+    .nav a.active::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: -8px;
+      height: 2px;
+      background: var(--accent);
+    }
+
+    .menu-toggle {
+      display: none;
+      border: 0;
+      background: transparent;
+      font-size: 26px;
+      cursor: pointer;
+    }
+
+    /* Page hero */
+    .page-hero {
+      padding: 80px 0 56px;
+      background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%);
+      border-bottom: 1px solid var(--line);
+      text-align: center;
+    }
+
+    .page-hero h1 {
+      margin: 0 0 14px;
+      font-size: clamp(36px, 5vw, 58px);
+      line-height: 1.15;
+      letter-spacing: -0.06em;
+      color: var(--primary);
+    }
+
+    .page-hero p {
+      margin: 0;
+      font-size: 18px;
+      color: var(--muted);
+    }
+
+    /* News */
+    .news-section {
+      padding: 70px 0 100px;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 28px;
+    }
+
+    .news-card {
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      overflow: hidden;
+      background: #fff;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .news-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 16px 36px rgba(17, 24, 39, 0.08);
+    }
+
+    .thumb {
+      height: 210px;
+      background: #eef2f7;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #94a3b8;
+      font-weight: 700;
+    }
+
+    .news-content {
+      padding: 24px;
+    }
+
+    .news-date {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .news-title {
+      margin: 0 0 12px;
+      font-size: 21px;
+      line-height: 1.35;
+      letter-spacing: -0.03em;
+      color: var(--primary);
+    }
+
+    .news-desc {
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-size: 15px;
+    }
+
+    .read-more {
+      font-weight: 700;
+      color: var(--accent);
+      font-size: 15px;
+    }
+
+    /* Footer */
+    .site-footer {
+      border-top: 1px solid var(--line);
+      background: var(--primary);
+      color: #d1d5db;
+      padding: 54px 0 34px;
+    }
+
+    .footer-inner {
+      display: flex;
+      justify-content: space-between;
+      gap: 40px;
+      flex-wrap: wrap;
+    }
+
+    .footer-brand {
+      max-width: 420px;
+    }
+
+    .footer-logo {
+      margin-bottom: 14px;
+      font-size: 24px;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.04em;
+    }
+
+    .footer-brand p {
+      margin: 0;
+      color: #9ca3af;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+      font-size: 14px;
+    }
+
+    .footer-links a:hover {
+      color: #fff;
+    }
+
+    .copyright {
+      margin-top: 38px;
+      padding-top: 24px;
+      border-top: 1px solid rgba(255, 255, 255, 0.12);
+      color: #9ca3af;
+      font-size: 13px;
+    }
+
+    @media (max-width: 900px) {
+      .menu-toggle {
+        display: block;
+      }
+
+      .nav {
+        display: none;
+        position: absolute;
+        left: 20px;
+        right: 20px;
+        top: 76px;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+        padding: 22px;
+        background: #fff;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        box-shadow: 0 16px 32px rgba(17, 24, 39, 0.1);
+      }
+
+      .nav.open {
+        display: flex;
+      }
+
+      .news-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .container {
+        width: min(100% - 28px, var(--max-width));
+      }
+
+      .page-hero {
+        padding: 60px 0 42px;
+      }
+
+      .news-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .header-inner {
+        height: 68px;
+      }
+
+      .nav {
+        top: 68px;
+      }
+    }
+  </style>
 </head>
 
 <body>
-<header>
-  <div class="header-inner">
-    <a class="brand" href="index.html">
-      <div class="brand-mark">TM</div>
-      <div class="brand-name">TERRA META</div>
-    </a>
-    <a class="back" href="index.html">← Back to Home</a>
-  </div>
-</header>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo">TERRAMETA</a>
 
-<section class="hero">
-  <div class="hero-inner">
-    <h1>News</h1>
-    <p>Latest company updates and external news related to Terra Meta.</p>
-  </div>
-</section>
+      <nav class="nav" id="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="business.html">Business</a>
+        <a href="news.html" class="active">News</a>
+        <a href="contact.html">Contact</a>
+      </nav>
 
-<main class="container">
+      <button class="menu-toggle" type="button" aria-label="Open menu" onclick="toggleMenu()">☰</button>
+    </div>
+  </header>
 
-  <section class="pinned">
-    <div class="badge">PINNED · LATEST EXTERNAL NEWS</div>
-    <h2>Latest Terra Meta News</h2>
-    <p>
-      This section links to the latest external news search results for Terra Meta.
-      Use this as the top fixed news area while company announcements are updated below.
-    </p>
-    <a class="btn" href="https://www.google.com/search?q=Terra+Meta+Co.%2C+Ltd.+news&tbm=nws" target="_blank" rel="noopener">
-      View Latest External News
-    </a>
-  </section>
+  <main>
+    <section class="page-hero">
+      <div class="container">
+        <h1>News</h1>
+        <p>Stay updated with the latest news and announcements from TERRAMETA.</p>
+      </div>
+    </section>
 
-  <article class="news-item">
-    <small>COMPANY NEWS · UPDATED</small>
-    <h2>Terra Meta Launch Announcement</h2>
-    <p>
-      Terra Meta Co., Ltd. is preparing company updates through this news page.
-      Future announcements, launch updates, partnership news, and technology development
-      information will be maintained here.
-    </p>
-    <p style="margin-top:14px;">
-      <a class="btn" href="https://www.google.com/search?q=Terra+Meta+Co.%2C+Ltd.+news&tbm=nws" target="_blank" rel="noopener">
-        Check Related External News
-      </a>
-    </p>
-  </article>
+    <section class="news-section">
+      <div class="container">
+        <div class="news-grid">
+          <article class="news-card">
+            <a href="#">
+              <div class="thumb">NEWS IMAGE</div>
+              <div class="news-content">
+                <span class="news-date">2026.04.28</span>
+                <h2 class="news-title">TERRAMETA News Title Goes Here</h2>
+                <p class="news-desc">Add a short summary of the news article here. Two or three lines work best.</p>
+                <span class="read-more">Read More →</span>
+              </div>
+            </a>
+          </article>
 
-  <article class="news-item">
-    <small>PARTNERSHIP · 2026</small>
-    <h2>Partnership Expansion</h2>
-    <p>
-      Terra Meta is expanding strategic partnerships across multiple industries to accelerate growth and collaboration.
-    </p>
-  </article>
+          <article class="news-card">
+            <a href="#">
+              <div class="thumb">NEWS IMAGE</div>
+              <div class="news-content">
+                <span class="news-date">2026.04.28</span>
+                <h2 class="news-title">Announcement Title Goes Here</h2>
+                <p class="news-desc">Add a brief description for announcements, press releases, or updates.</p>
+                <span class="read-more">Read More →</span>
+              </div>
+            </a>
+          </article>
 
-  <article class="news-item">
-    <small>TECHNOLOGY · 2026</small>
-    <h2>Technology Development Update</h2>
-    <p>
-      New scalable architecture has been developed to enhance performance, stability, and future-ready infrastructure.
-    </p>
-  </article>
+          <article class="news-card">
+            <a href="#">
+              <div class="thumb">NEWS IMAGE</div>
+              <div class="news-content">
+                <span class="news-date">2026.04.28</span>
+                <h2 class="news-title">Update Title Goes Here</h2>
+                <p class="news-desc">Introduce the latest company updates, activities, or important notices.</p>
+                <span class="read-more">Read More →</span>
+              </div>
+            </a>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
 
-</main>
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <div class="footer-logo">TERRAMETA</div>
+          <p>Official website of TERRAMETA. Explore our company, business, news, and contact information.</p>
+        </div>
 
-<footer>
-  <p>Terra Meta Co., Ltd.</p>
-  <p>Email: contact@trrameta.co</p>
-  <p>© 2026 Terra Meta Co., Ltd. All rights reserved.</p>
-</footer>
+        <div class="footer-links">
+          <a href="index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="business.html">Business</a>
+          <a href="news.html">News</a>
+          <a href="contact.html">Contact</a>
+        </div>
+      </div>
+
+      <div class="copyright">
+        © 2026 TERRAMETA. All rights reserved.
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById("nav").classList.toggle("open");
+    }
+  </script>
 </body>
 </html>
