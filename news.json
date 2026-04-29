@@ -1,62 +1,90 @@
 [
   {
-    "title": "recall-mcp 0.1.0",
-    "url": "https://pypi.org/project/recall-mcp/0.1.0/",
-    "publishedAt": "2026-04-28T05:45:52Z",
-    "source": "Pypi.org"
+    "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+    "url": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+    "publishedAt": "2026-04-28T00:39:30Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/69efe08a87c24c30ec966a36/191:100/w_1280,c_limit/Model-Behavior-Musk-Altman-Jury-Business.jpg",
+    "summary": "Musk’s lawsuit challenges OpenAI’s evolution under Sam Altman. But during jury selection, several potential jurors voiced negative views of Musk himself."
   },
   {
-    "title": "recall-mcp added to PyPI",
-    "url": "https://pypi.org/project/recall-mcp/",
-    "publishedAt": "2026-04-28T05:45:52Z",
-    "source": "Pypi.org"
+    "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+    "publishedAt": "2026-04-27T16:15:47Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431707/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announce…"
   },
   {
-    "title": "skchat-sovereign 0.8.2",
-    "url": "https://pypi.org/project/skchat-sovereign/0.8.2/",
-    "publishedAt": "2026-04-28T05:45:34Z",
-    "source": "Pypi.org"
+    "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "publishedAt": "2026-04-27T15:51:41Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning…"
   },
   {
-    "title": "Screenplay Assistant – Type your story scene by scene and get a properly formatted screenplay",
-    "url": "https://betalist.com/startups/screenplay-assistant",
-    "publishedAt": "2026-04-28T05:45:00Z",
-    "source": "Betalist.com"
+    "title": "Why Tokyo is the most important tech destination of 2026 | TechCrunch",
+    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "publishedAt": "2026-04-25T15:07:32Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/sushitech-3-hero.webp?resize=1200,835",
+    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally."
   },
   {
-    "title": "‘Don’t expect flowers in India’: VC backs Sridhar Vembu, says return call not for most NRIs",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/dont-expect-flowers-in-india-vc-backs-sridhar-vembu-says-return-call-not-for-most-nris/articleshow/130570641.cms",
-    "publishedAt": "2026-04-28T05:44:26Z",
-    "source": "The Times of India"
+    "title": "Redwood Materials loses COO amid layoffs, restructuring",
+    "url": "https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/",
+    "publishedAt": "2026-04-23T22:44:35Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Modular_Data_Center_2.jpg?resize=1200,675",
+    "summary": "Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned."
   },
   {
-    "title": "scitex-ssh added to PyPI",
-    "url": "https://pypi.org/project/scitex-ssh/",
-    "publishedAt": "2026-04-28T05:44:11Z",
-    "source": "Pypi.org"
+    "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+    "publishedAt": "2026-04-23T22:19:41Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theor…"
   },
   {
-    "title": "Google breaks ground on Indian AI megahub",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-breaks-ground-on-indian-ai-megahub/articleshow/130570752.cms",
-    "publishedAt": "2026-04-28T05:42:53Z",
-    "source": "The Times of India"
+    "title": "Hands on with X's new AI-powered custom feeds | TechCrunch",
+    "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "publishedAt": "2026-04-22T22:25:53Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
+    "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
   },
   {
-    "title": "【再放送決定】世界的権威と読み解くAI時代のSEO戦略。ゼロクリック時代への対応と「ストイックな対談」が反響を呼んだ特別セミナーをアンコール配信",
-    "url": "https://prtimes.jp/main/html/rd/p/000000105.000054994.html",
-    "publishedAt": "2026-04-28T05:40:39Z",
-    "source": "Prtimes.jp"
+    "title": "Alexis Ohanian shocks Washington with pro-immigration remarks",
+    "url": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
+    "publishedAt": "2026-04-22T20:04:45Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268210802.jpg?quality=90&strip=all&crop=0%2C12.9956749374%2C100%2C74.008650125199&w=1200",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge readers about tech politics, political tech, and how they're muddying the waters of Washington, DC. My birthday is this week, and if you're not a Verge subscriber but would like to wish me a happy birthda…"
   },
   {
-    "title": "KH株式会社、株式会社インフィストデザインよりガレージハウス事業を継承・拡大",
-    "url": "https://prtimes.jp/main/html/rd/p/000000002.000174957.html",
-    "publishedAt": "2026-04-28T05:40:11Z",
-    "source": "Prtimes.jp"
+    "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+    "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+    "publishedAt": "2026-04-22T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/69e7bb297bc055b07603a318/191:100/w_1280,c_limit/livestream_q&a_MuskVSAltman-Business.jpg",
+    "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI."
   },
   {
-    "title": "contextcore-ai-toolkit added to PyPI",
-    "url": "https://pypi.org/project/contextcore-ai-toolkit/",
-    "publishedAt": "2026-04-28T05:39:08Z",
-    "source": "Pypi.org"
+    "title": "The 10 Best Electrolyte Powders (We Tested Nearly 20)",
+    "url": "https://www.wired.com/story/best-electrolyte-powders/",
+    "publishedAt": "2026-04-21T13:33:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/69e6d358d29b04dda3eea33f/191:100/w_1280,c_limit/The-Best-Electrolyte-Powders-and-Supplements.jpg",
+    "summary": "Get those lost minerals back with the help of our top electrolyte powders, tablets, drops, and chews for athletes, partiers, and everyone in between."
+  },
+  {
+    "title": "Silicon Valley has forgotten what normal people want",
+    "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+    "publishedAt": "2026-04-20T20:19:49Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an a…"
   }
 ]
