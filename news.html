@@ -363,14 +363,21 @@
           return;
         }
 
+        grid.innerHTML = "";
+        emptyMessage.style.display = "none";
+
         newsItems
-          .sort((a, b) => new Date(b.date) - new Date(a.date))
+          .sort((a, b) => new Date(b.publishedAt || b.date) - new Date(a.publishedAt || a.date))
           .slice(0, 12)
           .forEach((item) => {
             const article = document.createElement("article");
             article.className = "news-card";
-            const image = item.image || "images/news-default.jpg";
-            const link = item.link || "#";
+
+            const image = item.image || item.urlToImage || "images/news-default.jpg";
+            const link = item.url || item.link || "#";
+            const date = item.publishedAt || item.date || "";
+            const description = item.description || item.summary || "";
+            const source = typeof item.source === "string" ? item.source : (item.source?.name || "News");
 
             article.innerHTML = `
               <a href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">
@@ -378,10 +385,10 @@
                   <img src="${escapeHtml(image)}" alt="${escapeHtml(item.title)}" loading="lazy" onerror="this.src='images/news-default.jpg'">
                 </div>
                 <div class="news-content">
-                  <div class="news-source">${escapeHtml(item.source || "News")}</div>
-                  <span class="news-date">${escapeHtml(formatDate(item.date))}</span>
+                  <div class="news-source">${escapeHtml(source)}</div>
+                  <span class="news-date">${escapeHtml(formatDate(date))}</span>
                   <h2 class="news-title">${escapeHtml(item.title)}</h2>
-                  <p class="news-desc">${escapeHtml(item.summary)}</p>
+                  <p class="news-desc">${escapeHtml(description)}</p>
                   <span class="read-more">Read Original →</span>
                 </div>
               </a>
