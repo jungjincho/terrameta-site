@@ -1,10 +1,62 @@
 [
   {
-    "date": "2026-04-28T00:00:00Z",
-    "title": "AI + Tech News Will Appear Here Automatically",
-    "summary": "After adding your GNews API key and running GitHub Actions, this file will update with live AI and technology news.",
-    "image": "images/news-default.jpg",
-    "link": "https://gnews.io/",
-    "source": "TerraMeta"
+    "title": "recall-mcp 0.1.0",
+    "url": "https://pypi.org/project/recall-mcp/0.1.0/",
+    "publishedAt": "2026-04-28T05:45:52Z",
+    "source": "Pypi.org"
+  },
+  {
+    "title": "recall-mcp added to PyPI",
+    "url": "https://pypi.org/project/recall-mcp/",
+    "publishedAt": "2026-04-28T05:45:52Z",
+    "source": "Pypi.org"
+  },
+  {
+    "title": "skchat-sovereign 0.8.2",
+    "url": "https://pypi.org/project/skchat-sovereign/0.8.2/",
+    "publishedAt": "2026-04-28T05:45:34Z",
+    "source": "Pypi.org"
+  },
+  {
+    "title": "Screenplay Assistant – Type your story scene by scene and get a properly formatted screenplay",
+    "url": "https://betalist.com/startups/screenplay-assistant",
+    "publishedAt": "2026-04-28T05:45:00Z",
+    "source": "Betalist.com"
+  },
+  {
+    "title": "‘Don’t expect flowers in India’: VC backs Sridhar Vembu, says return call not for most NRIs",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/dont-expect-flowers-in-india-vc-backs-sridhar-vembu-says-return-call-not-for-most-nris/articleshow/130570641.cms",
+    "publishedAt": "2026-04-28T05:44:26Z",
+    "source": "The Times of India"
+  },
+  {
+    "title": "scitex-ssh added to PyPI",
+    "url": "https://pypi.org/project/scitex-ssh/",
+    "publishedAt": "2026-04-28T05:44:11Z",
+    "source": "Pypi.org"
+  },
+  {
+    "title": "Google breaks ground on Indian AI megahub",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-breaks-ground-on-indian-ai-megahub/articleshow/130570752.cms",
+    "publishedAt": "2026-04-28T05:42:53Z",
+    "source": "The Times of India"
+  },
+  {
+    "title": "【再放送決定】世界的権威と読み解くAI時代のSEO戦略。ゼロクリック時代への対応と「ストイックな対談」が反響を呼んだ特別セミナーをアンコール配信",
+    "url": "https://prtimes.jp/main/html/rd/p/000000105.000054994.html",
+    "publishedAt": "2026-04-28T05:40:39Z",
+    "source": "Prtimes.jp"
+  },
+  {
+    "title": "KH株式会社、株式会社インフィストデザインよりガレージハウス事業を継承・拡大",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000174957.html",
+    "publishedAt": "2026-04-28T05:40:11Z",
+    "source": "Prtimes.jp"
+  },
+  {
+    "title": "contextcore-ai-toolkit added to PyPI",
+    "url": "https://pypi.org/project/contextcore-ai-toolkit/",
+    "publishedAt": "2026-04-28T05:39:08Z",
+    "source": "Pypi.org"
   }
 ]
