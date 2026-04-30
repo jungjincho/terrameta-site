@@ -1,5 +1,13 @@
 [
   {
+    "title": "All the evidence unveiled so far in Musk v. Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "publishedAt": "2026-04-29T18:06:35Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from be…"
+  },
+  {
     "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
     "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
     "publishedAt": "2026-04-28T21:35:17Z",
@@ -70,13 +78,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268210802.jpg?quality=90&strip=all&crop=0%2C12.9956749374%2C100%2C74.008650125199&w=1200",
     "summary": "Hello and welcome to Regulator, a newsletter for Verge readers about tech politics, political tech, and how they're muddying the waters of Washington, DC. My birthday is this week, and if you're not a Verge subscriber but would like to wish me a happy birthda…"
-  },
-  {
-    "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
-    "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
-    "publishedAt": "2026-04-22T10:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/69e7bb297bc055b07603a318/191:100/w_1280,c_limit/livestream_q&a_MuskVSAltman-Business.jpg",
-    "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI."
   }
 ]
