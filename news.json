@@ -1,5 +1,13 @@
 [
   {
+    "title": "All these smart glasses and nothing to do",
+    "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+    "publishedAt": "2026-04-30T13:59:01Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268494_smart_glasses_overview_AKrales_0381.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their Neural Wristband. In my closet are six pairs of $50 smart su…"
+  },
+  {
     "title": "Grindr — yes, Grindr — won the WHCD party circuit",
     "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
     "publishedAt": "2026-04-29T21:59:17Z",
@@ -70,13 +78,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theor…"
-  },
-  {
-    "title": "Hands on with X's new AI-powered custom feeds | TechCrunch",
-    "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-    "publishedAt": "2026-04-22T22:25:53Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
-    "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
   }
 ]
