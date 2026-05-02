@@ -1,408 +1,222 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>News | TerraMeta</title>
-  <style>
-    :root {
-      --primary: #111827;
-      --text: #1f2937;
-      --muted: #6b7280;
-      --line: #e5e7eb;
-      --bg: #ffffff;
-      --accent: #2563eb;
-      --max-width: 1180px;
-    }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News | Terra Meta</title>
 
-    * { box-sizing: border-box; }
+<style>
+:root{
+--primary:#0b3972;
+--accent:#3d82ff;
+--bg:#f8fafc;
+--text:#111;
+--muted:#666;
+}
 
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-      color: var(--text);
-      background: var(--bg);
-      line-height: 1.6;
-    }
+body{
+margin:0;
+font-family:Arial, sans-serif;
+background:var(--bg);
+color:var(--text);
+}
 
-    a { color: inherit; text-decoration: none; }
-    img { max-width: 100%; display: block; }
+header{
+background:white;
+padding:20px;
+text-align:center;
+border-bottom:1px solid #eee;
+}
 
-    .container {
-      width: min(100% - 40px, var(--max-width));
-      margin: 0 auto;
-    }
+.logo{
+font-size:26px;
+font-weight:900;
+}
 
-    .site-header {
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      background: rgba(255, 255, 255, 0.94);
-      backdrop-filter: blur(12px);
-      border-bottom: 1px solid var(--line);
-    }
+nav{
+margin-top:10px;
+display:flex;
+justify-content:center;
+gap:20px;
+}
 
-    .header-inner {
-      height: 76px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 32px;
-    }
+nav a{
+text-decoration:none;
+color:#111;
+font-weight:700;
+}
 
-    .logo {
-      font-size: 24px;
-      font-weight: 800;
-      letter-spacing: -0.04em;
-      color: var(--primary);
-    }
+.hero{
+padding:60px 20px;
+text-align:center;
+background:linear-gradient(120deg,#06142d,#0b3972);
+color:white;
+}
 
-    .nav {
-      display: flex;
-      align-items: center;
-      gap: 30px;
-      font-size: 15px;
-      font-weight: 500;
-      color: var(--primary);
-    }
+.hero h1{
+font-size:42px;
+margin-bottom:10px;
+}
 
-    .nav a {
-      position: relative;
-      padding: 6px 0;
-    }
+.container{
+max-width:1200px;
+margin:auto;
+padding:40px 20px;
+}
 
-    .nav a:hover,
-    .nav a.active { color: var(--accent); }
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:25px;
+}
 
-    .nav a.active::after {
-      content: "";
-      position: absolute;
-      left: 0;
-      right: 0;
-      bottom: -8px;
-      height: 2px;
-      background: var(--accent);
-    }
+.card{
+background:white;
+border-radius:12px;
+overflow:hidden;
+box-shadow:0 10px 25px rgba(0,0,0,0.05);
+transition:0.3s;
+display:flex;
+flex-direction:column;
+}
 
-    .menu-toggle {
-      display: none;
-      border: 0;
-      background: transparent;
-      font-size: 26px;
-      cursor: pointer;
-    }
+.card:hover{
+transform:translateY(-5px);
+box-shadow:0 20px 40px rgba(0,0,0,0.1);
+}
 
-    .page-hero {
-      padding: 80px 0 56px;
-      background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%);
-      border-bottom: 1px solid var(--line);
-      text-align: center;
-    }
+.thumb{
+height:200px;
+overflow:hidden;
+background:#eee;
+}
 
-    .page-hero h1 {
-      margin: 0 0 14px;
-      font-size: clamp(36px, 5vw, 58px);
-      line-height: 1.15;
-      letter-spacing: -0.06em;
-      color: var(--primary);
-    }
+.thumb img{
+width:100%;
+height:100%;
+object-fit:cover;
+}
 
-    .page-hero p {
-      margin: 0;
-      font-size: 18px;
-      color: var(--muted);
-    }
+.content{
+padding:20px;
+flex:1;
+display:flex;
+flex-direction:column;
+}
 
-    .news-section { padding: 70px 0 100px; }
+.source{
+color:var(--accent);
+font-size:13px;
+font-weight:bold;
+}
 
-    .news-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 28px;
-    }
+.date{
+font-size:13px;
+color:var(--muted);
+margin:5px 0 10px;
+}
 
-    .news-card {
-      border: 1px solid var(--line);
-      border-radius: 20px;
-      overflow: hidden;
-      background: #fff;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
+.title{
+font-size:18px;
+font-weight:700;
+margin-bottom:10px;
+display:-webkit-box;
+-webkit-line-clamp:2;
+-webkit-box-orient:vertical;
+overflow:hidden;
+}
 
-    .news-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 16px 36px rgba(17, 24, 39, 0.08);
-    }
+.desc{
+font-size:14px;
+color:var(--muted);
+flex:1;
+display:-webkit-box;
+-webkit-line-clamp:3;
+-webkit-box-orient:vertical;
+overflow:hidden;
+}
 
-    .thumb {
-      height: 210px;
-      background: #eef2f7;
-      overflow: hidden;
-    }
+.read{
+margin-top:15px;
+font-weight:bold;
+color:var(--accent);
+}
 
-    .thumb img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-
-    .news-content { padding: 24px; }
-
-    .news-source {
-      font-size: 13px;
-      color: var(--accent);
-      font-weight: 700;
-    }
-
-    .news-date {
-      display: block;
-      margin: 6px 0 10px;
-      font-size: 14px;
-      color: var(--muted);
-    }
-
-    .news-title {
-      margin: 0 0 12px;
-      font-size: 21px;
-      line-height: 1.35;
-      letter-spacing: -0.03em;
-      color: var(--primary);
-    }
-
-    .news-desc {
-      margin: 0 0 20px;
-      color: var(--muted);
-      font-size: 15px;
-    }
-
-    .read-more {
-      font-weight: 700;
-      color: var(--accent);
-      font-size: 15px;
-    }
-
-    .empty-message {
-      padding: 40px;
-      border: 1px solid var(--line);
-      border-radius: 20px;
-      text-align: center;
-      color: var(--muted);
-    }
-
-    .site-footer {
-      border-top: 1px solid var(--line);
-      background: var(--primary);
-      color: #d1d5db;
-      padding: 54px 0 34px;
-    }
-
-    .footer-inner {
-      display: flex;
-      justify-content: space-between;
-      gap: 40px;
-      flex-wrap: wrap;
-    }
-
-    .footer-brand { max-width: 420px; }
-
-    .footer-logo {
-      margin-bottom: 14px;
-      font-size: 24px;
-      font-weight: 800;
-      color: #fff;
-      letter-spacing: -0.04em;
-    }
-
-    .footer-brand p {
-      margin: 0;
-      color: #9ca3af;
-    }
-
-    .footer-links {
-      display: flex;
-      gap: 24px;
-      flex-wrap: wrap;
-      font-size: 14px;
-    }
-
-    .footer-links a:hover { color: #fff; }
-
-    .copyright {
-      margin-top: 38px;
-      padding-top: 24px;
-      border-top: 1px solid rgba(255, 255, 255, 0.12);
-      color: #9ca3af;
-      font-size: 13px;
-    }
-
-    @media (max-width: 900px) {
-      .menu-toggle { display: block; }
-
-      .nav {
-        display: none;
-        position: absolute;
-        left: 20px;
-        right: 20px;
-        top: 76px;
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 16px;
-        padding: 22px;
-        background: #fff;
-        border: 1px solid var(--line);
-        border-radius: 16px;
-        box-shadow: 0 16px 32px rgba(17, 24, 39, 0.1);
-      }
-
-      .nav.open { display: flex; }
-      .news-grid { grid-template-columns: 1fr 1fr; }
-    }
-
-    @media (max-width: 640px) {
-      .container { width: min(100% - 28px, var(--max-width)); }
-      .page-hero { padding: 60px 0 42px; }
-      .news-grid { grid-template-columns: 1fr; }
-      .header-inner { height: 68px; }
-      .nav { top: 68px; }
-    }
-  </style>
+footer{
+background:#06142d;
+color:white;
+text-align:center;
+padding:30px;
+margin-top:40px;
+}
+</style>
 </head>
 
 <body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a href="index.html" class="logo">TerraMeta</a>
 
-      <nav class="nav" id="nav">
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="business.html">Business</a>
-        <a href="news.html" class="active">News</a>
-        <a href="contact.html">Contact</a>
-      </nav>
+<header>
+<div class="logo">TERRA META</div>
+<nav>
+<a href="index.html">HOME</a>
+<a href="news.html">NEWS</a>
+</nav>
+</header>
 
-      <button class="menu-toggle" type="button" aria-label="Open menu" onclick="toggleMenu()">☰</button>
-    </div>
-  </header>
+<section class="hero">
+<h1>Latest Tech News</h1>
+<p>AI · Technology · Innovation</p>
+</section>
 
-  <main>
-    <section class="page-hero">
-      <div class="container">
-        <h1>AI + Tech News</h1>
-        <p>Automatically updated technology and AI headlines curated for TerraMeta.</p>
-      </div>
-    </section>
+<div class="container">
+<div class="grid" id="newsGrid"></div>
+</div>
 
-    <section class="news-section">
-      <div class="container">
-        <div class="news-grid" id="newsGrid"></div>
-        <div class="empty-message" id="emptyMessage" style="display:none;">
-          No news is available yet.
-        </div>
-      </div>
-    </section>
-  </main>
+<footer>
+© 2026 Terra Meta Co., Ltd.
+</footer>
 
-  <footer class="site-footer">
-    <div class="container">
-      <div class="footer-inner">
-        <div class="footer-brand">
-          <div class="footer-logo">TerraMeta</div>
-          <p>Official website of TerraMeta. Explore our company, business, news, and contact information.</p>
-        </div>
+<script>
+async function loadNews(){
+try{
+const res = await fetch("./news.json",{cache:"no-store"});
+const data = await res.json();
 
-        <div class="footer-links">
-          <a href="index.html">Home</a>
-          <a href="about.html">About</a>
-          <a href="business.html">Business</a>
-          <a href="news.html">News</a>
-          <a href="contact.html">Contact</a>
-        </div>
-      </div>
+const grid = document.getElementById("newsGrid");
 
-      <div class="copyright">
-        © 2026 TerraMeta. All rights reserved.
-      </div>
-    </div>
-  </footer>
+data
+.sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt))
+.slice(0,12)
+.forEach(item=>{
 
-  <script>
-    function toggleMenu() {
-      document.getElementById("nav").classList.toggle("open");
-    }
+const card=document.createElement("div");
+card.className="card";
 
-    function formatDate(dateText) {
-      const date = new Date(dateText);
-      if (Number.isNaN(date.getTime())) return dateText || "";
-      return date.toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "short",
-        day: "numeric"
-      });
-    }
+card.innerHTML=`
+<a href="${item.url}" target="_blank">
+<div class="thumb">
+<img src="${item.image}" onerror="this.src='https://via.placeholder.com/400x200'">
+</div>
 
-    function escapeHtml(text) {
-      return String(text || "")
-        .replaceAll("&", "&amp;")
-        .replaceAll("<", "&lt;")
-        .replaceAll(">", "&gt;")
-        .replaceAll('"', "&quot;")
-        .replaceAll("'", "&#039;");
-    }
+<div class="content">
+<div class="source">${item.source}</div>
+<div class="date">${new Date(item.publishedAt).toLocaleDateString()}</div>
+<div class="title">${item.title}</div>
+<div class="desc">${item.summary}</div>
+<div class="read">Read →</div>
+</div>
+</a>
+`;
 
-    async function loadNews() {
-      const grid = document.getElementById("newsGrid");
-      const emptyMessage = document.getElementById("emptyMessage");
+grid.appendChild(card);
+});
 
-      try {
-        const response = await fetch("./news.json", { cache: "no-store" });
-        const newsItems = await response.json();
+}catch(e){
+document.getElementById("newsGrid").innerHTML="Failed to load news";
+}
+}
 
-        if (!Array.isArray(newsItems) || newsItems.length === 0) {
-          emptyMessage.style.display = "block";
-          return;
-        }
+loadNews();
+</script>
 
-        grid.innerHTML = "";
-        emptyMessage.style.display = "none";
-
-        newsItems
-          .sort((a, b) => new Date(b.publishedAt || b.date) - new Date(a.publishedAt || a.date))
-          .slice(0, 12)
-          .forEach((item) => {
-            const article = document.createElement("article");
-            article.className = "news-card";
-
-            const image = item.image || item.urlToImage || "images/news-default.jpg";
-            const link = item.url || item.link || "#";
-            const date = item.publishedAt || item.date || "";
-            const description = item.description || item.summary || "";
-            const source = typeof item.source === "string" ? item.source : (item.source?.name || "News");
-
-            article.innerHTML = `
-              <a href="${escapeHtml(link)}" target="_blank" rel="noopener noreferrer">
-                <div class="thumb">
-                  <img src="${escapeHtml(image)}" alt="${escapeHtml(item.title)}" loading="lazy" onerror="this.src='images/news-default.jpg'">
-                </div>
-                <div class="news-content">
-                  <div class="news-source">${escapeHtml(source)}</div>
-                  <span class="news-date">${escapeHtml(formatDate(date))}</span>
-                  <h2 class="news-title">${escapeHtml(item.title)}</h2>
-                  <p class="news-desc">${escapeHtml(description)}</p>
-                  <span class="read-more">Read Original →</span>
-                </div>
-              </a>
-            `;
-
-            grid.appendChild(article);
-          });
-      } catch (error) {
-        emptyMessage.textContent = "Unable to load news. Please check news.json.";
-        emptyMessage.style.display = "block";
-      }
-    }
-
-    loadNews();
-  </script>
 </body>
 </html>
