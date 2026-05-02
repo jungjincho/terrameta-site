@@ -153,6 +153,55 @@ text-align:left;
 .popup-box h1,.popup-box h2,.popup-box h3{margin:16px 0 10px}
 .popup-box ul{padding-left:22px;margin:10px 0}
 
+.news-window{
+max-width:980px;
+margin:30px auto 0;
+border:1px solid #dbe3ef;
+border-radius:18px;
+background:#fff;
+box-shadow:0 18px 45px rgba(6,20,45,0.12);
+overflow:hidden;
+text-align:left;
+}
+.news-window-bar{
+display:flex;
+align-items:center;
+justify-content:space-between;
+gap:12px;
+padding:13px 18px;
+background:#06142d;
+color:#fff;
+font-weight:800;
+}
+.news-window-dots{display:flex;gap:7px}
+.news-window-dot{width:11px;height:11px;border-radius:50%;background:rgba(255,255,255,.55)}
+.news-window-body{
+height:360px;
+overflow-y:auto;
+padding:18px;
+background:#f7f9fc;
+}
+.news-window-item{
+display:block;
+padding:16px 18px;
+margin-bottom:12px;
+border:1px solid #dbe3ef;
+border-radius:12px;
+background:#fff;
+transition:.2s ease;
+}
+.news-window-item:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(6,20,45,.08)}
+.news-window-item small{display:block;color:#2568dc;font-weight:800;margin-bottom:7px}
+.news-window-item h3{font-size:18px;margin-bottom:7px;color:#06142d}
+.news-window-item p{font-size:14px;line-height:1.55;color:#596579;margin:0}
+.news-window-footer{
+padding:14px 18px;
+background:#fff;
+border-top:1px solid #e6edf7;
+text-align:right;
+}
+.news-window-footer a{font-weight:800;color:#2568dc}
+
 @media(max-width:800px){
 header{padding:12px 16px}
 .header-inner{flex-direction:column;gap:12px}
@@ -224,14 +273,19 @@ TOGETHER.
 
 <section id="news">
 <h2>News</h2>
-<p>Latest global business, AI, technology, market, and investment news is loaded automatically.</p>
+<p>Latest global business, AI, technology, market, and investment news is displayed automatically in the live news window below.</p>
 
-<div id="news-container" class="news-list">
-  <div class="news-status">Loading latest news...</div>
-</div>
-
-<div class="news-more">
-  <a href="news.html">More News</a>
+<div class="news-window" aria-label="Automatic latest news window">
+  <div class="news-window-bar">
+    <span>Live Business News</span>
+    <div class="news-window-dots" aria-hidden="true"><span class="news-window-dot"></span><span class="news-window-dot"></span><span class="news-window-dot"></span></div>
+  </div>
+  <div id="news-container" class="news-window-body">
+    <div class="news-status">Loading latest news...</div>
+  </div>
+  <div class="news-window-footer">
+    <a href="news.html">Open full news window</a>
+  </div>
 </div>
 
 </section>
@@ -308,12 +362,12 @@ function renderFallbackNews(container){
     {title:"Global economy and market news", link:"https://news.google.com/search?q=global%20economy%20market%20business", date:"Auto news", desc:"Track international economy, market, and business news."}
   ];
   container.innerHTML = fallback.map(item => `
-    <article class="news-item">
+    <a class="news-window-item" href="${item.link}" target="_blank" rel="noopener noreferrer">
       <div class="news-source">Google News</div>
-      <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+      <h3>${item.title}</h3>
       <p>${item.desc}</p>
       <div class="news-date">${item.date}</div>
-    </article>
+    </a>
   `).join("");
 }
 
@@ -330,12 +384,12 @@ async function loadLatestNews(){
       const date = item.pubDate ? item.pubDate.substring(0,10) : "Latest";
       const desc = stripHtml(item.description).replace(item.title, "").trim().slice(0,180);
       return `
-        <article class="news-item">
+        <a class="news-window-item" href="${item.link}" target="_blank" rel="noopener noreferrer">
           <div class="news-source">${source}</div>
-          <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+          <h3>${item.title}</h3>
           <p>${desc || "Click the headline to read the full story."}</p>
           <div class="news-date">${date}</div>
-        </article>
+        </a>
       `;
     }).join("");
   }catch(error){
