@@ -6,58 +6,48 @@
 <title>News | Terra Meta</title>
 
 <style>
-:root{
---primary:#0b3972;
---accent:#3d82ff;
---bg:#f8fafc;
---text:#111;
---muted:#666;
-}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,Helvetica,sans-serif;background:#f8fafc;color:#06142d}
 
-body{
-margin:0;
-font-family:Arial, sans-serif;
-background:var(--bg);
-color:var(--text);
-}
-
+/* HEADER */
 header{
-background:white;
-padding:20px;
+position:sticky;top:0;z-index:1000;
+background:#fff;border-bottom:1px solid #eee;
+padding:18px 20px;
 text-align:center;
-border-bottom:1px solid #eee;
 }
 
-.logo{
-font-size:26px;
+.brand{
+font-size:28px;
 font-weight:900;
+letter-spacing:2px;
 }
 
 nav{
 margin-top:10px;
 display:flex;
 justify-content:center;
-gap:20px;
+gap:18px;
+flex-wrap:wrap;
 }
 
 nav a{
-text-decoration:none;
-color:#111;
 font-weight:700;
+text-decoration:none;
+color:#06142d;
 }
 
+/* HERO */
 .hero{
 padding:60px 20px;
-text-align:center;
 background:linear-gradient(120deg,#06142d,#0b3972);
 color:white;
+text-align:center;
 }
 
-.hero h1{
-font-size:42px;
-margin-bottom:10px;
-}
+.hero h1{font-size:38px}
 
+/* GRID */
 .container{
 max-width:1200px;
 margin:auto;
@@ -70,9 +60,10 @@ grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
 gap:25px;
 }
 
+/* CARD */
 .card{
-background:white;
-border-radius:12px;
+background:#fff;
+border-radius:14px;
 overflow:hidden;
 box-shadow:0 10px 25px rgba(0,0,0,0.05);
 transition:0.3s;
@@ -81,12 +72,12 @@ flex-direction:column;
 }
 
 .card:hover{
-transform:translateY(-5px);
+transform:translateY(-6px);
 box-shadow:0 20px 40px rgba(0,0,0,0.1);
 }
 
 .thumb{
-height:200px;
+height:220px;
 overflow:hidden;
 background:#eee;
 }
@@ -99,20 +90,20 @@ object-fit:cover;
 
 .content{
 padding:20px;
-flex:1;
 display:flex;
 flex-direction:column;
+flex:1;
 }
 
 .source{
-color:var(--accent);
+color:#3d82ff;
 font-size:13px;
 font-weight:bold;
 }
 
 .date{
 font-size:13px;
-color:var(--muted);
+color:#666;
 margin:5px 0 10px;
 }
 
@@ -128,7 +119,7 @@ overflow:hidden;
 
 .desc{
 font-size:14px;
-color:var(--muted);
+color:#666;
 flex:1;
 display:-webkit-box;
 -webkit-line-clamp:3;
@@ -139,25 +130,32 @@ overflow:hidden;
 .read{
 margin-top:15px;
 font-weight:bold;
-color:var(--accent);
+color:#3d82ff;
 }
 
+/* FOOTER */
 footer{
 background:#06142d;
 color:white;
+padding:30px 20px;
 text-align:center;
-padding:30px;
 margin-top:40px;
 }
+
+footer p{font-size:14px;color:#ccc}
 </style>
 </head>
 
 <body>
 
 <header>
-<div class="logo">TERRA META</div>
+<div class="brand">TERRA META</div>
+
 <nav>
 <a href="index.html">HOME</a>
+<a href="index.html#about">ABOUT</a>
+<a href="index.html#solutions">SOLUTIONS</a>
+<a href="index.html#technology">TECH</a>
 <a href="news.html">NEWS</a>
 </nav>
 </header>
@@ -172,7 +170,13 @@ margin-top:40px;
 </div>
 
 <footer>
-© 2026 Terra Meta Co., Ltd.
+<p>Terra Meta Co., Ltd.</p>
+<p>CEO: Jungjin Cho</p>
+<p>Email: contact@terrameta.co</p>
+<p>Mobile: +82 10 2252 7782</p>
+<p>Tel: +82 70 4915 2724</p>
+<p>Seoul, Republic of Korea</p>
+<p>© 2026 Terra Meta Co., Ltd.</p>
 </footer>
 
 <script>
@@ -181,7 +185,7 @@ try{
 const res = await fetch("./news.json",{cache:"no-store"});
 const data = await res.json();
 
-const grid = document.getElementById("newsGrid");
+const grid=document.getElementById("newsGrid");
 
 data
 .sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt))
