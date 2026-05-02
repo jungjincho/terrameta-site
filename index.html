@@ -109,6 +109,13 @@ background:#fff;
 .news-item h3{margin-bottom:8px;color:#06142d}
 .news-item p{margin:0;color:#596579}
 
+
+.news-source{font-size:13px;color:#2568dc;font-weight:700;margin-bottom:8px}
+.news-date{font-size:13px;color:#7a8491;margin-top:8px}
+.news-status{color:#596579;text-align:center;padding:18px;border:1px dashed #dbe3ef;border-radius:10px;background:#fafbfd}
+.news-more{margin-top:22px;text-align:center}
+.news-more a{display:inline-block;padding:12px 20px;border-radius:8px;background:#2568dc;color:#fff;font-weight:800}
+
 footer{
 background:#06142d;
 color:white;
@@ -217,24 +224,14 @@ TOGETHER.
 
 <section id="news">
 <h2>News</h2>
+<p>Latest global business, AI, technology, market, and investment news is loaded automatically.</p>
 
-<div class="news-list">
-
-<div class="news-item">
-<h3>Terra Meta Launch Announcement</h3>
-<p>Terra Meta officially launched its integrated platform.</p>
+<div id="news-container" class="news-list">
+  <div class="news-status">Loading latest news...</div>
 </div>
 
-<div class="news-item">
-<h3>Partnership Expansion</h3>
-<p>Strategic partnerships are expanding across industries.</p>
-</div>
-
-<div class="news-item">
-<h3>Technology Update</h3>
-<p>New scalable architecture has been developed.</p>
-</div>
-
+<div class="news-more">
+  <a href="news.html">More News</a>
 </div>
 
 </section>
@@ -294,6 +291,59 @@ function closeCopperPopupOnBackdrop(event){
     closeCopperPopup();
   }
 }
+
+const NEWS_RSS_URL = "https://news.google.com/rss/search?q=business%20OR%20AI%20OR%20technology%20OR%20startup%20OR%20investment%20OR%20market&hl=en-US&gl=US&ceid=US:en";
+const NEWS_API_URL = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(NEWS_RSS_URL);
+
+function stripHtml(html){
+  const temp = document.createElement("div");
+  temp.innerHTML = html || "";
+  return temp.textContent || temp.innerText || "";
+}
+
+function renderFallbackNews(container){
+  const fallback = [
+    {title:"Global business and AI market updates", link:"https://news.google.com/search?q=business%20AI%20technology", date:"Auto news", desc:"Open the latest global business, AI, technology, market, and investment headlines."},
+    {title:"Technology and startup investment news", link:"https://news.google.com/search?q=technology%20startup%20investment", date:"Auto news", desc:"Follow current technology, startup, and investment developments."},
+    {title:"Global economy and market news", link:"https://news.google.com/search?q=global%20economy%20market%20business", date:"Auto news", desc:"Track international economy, market, and business news."}
+  ];
+  container.innerHTML = fallback.map(item => `
+    <article class="news-item">
+      <div class="news-source">Google News</div>
+      <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+      <p>${item.desc}</p>
+      <div class="news-date">${item.date}</div>
+    </article>
+  `).join("");
+}
+
+async function loadLatestNews(){
+  const container = document.getElementById("news-container");
+  if(!container) return;
+  try{
+    const response = await fetch(NEWS_API_URL);
+    const data = await response.json();
+    if(!data.items || !data.items.length) throw new Error("No news items");
+
+    container.innerHTML = data.items.slice(0,3).map(item => {
+      const source = item.author || "Google News";
+      const date = item.pubDate ? item.pubDate.substring(0,10) : "Latest";
+      const desc = stripHtml(item.description).replace(item.title, "").trim().slice(0,180);
+      return `
+        <article class="news-item">
+          <div class="news-source">${source}</div>
+          <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
+          <p>${desc || "Click the headline to read the full story."}</p>
+          <div class="news-date">${date}</div>
+        </article>
+      `;
+    }).join("");
+  }catch(error){
+    renderFallbackNews(container);
+  }
+}
+
+loadLatestNews();
 </script>
 
 </body>
