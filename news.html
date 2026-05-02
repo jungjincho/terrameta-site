@@ -86,6 +86,12 @@ padding:42px 0;
 .article p{font-size:17px;line-height:1.8;color:#506071;margin-bottom:14px}
 .back-link{display:inline-block;margin-top:12px;font-weight:800;color:#2568dc}
 
+
+.news-source{font-size:13px;color:#2568dc;font-weight:800;margin-bottom:10px}
+.news-date{font-size:13px;color:#7a8491;margin-top:10px}
+.news-status{color:#596579;text-align:center;padding:20px;border:1px dashed #dbe3ef;border-radius:10px;background:#fafbfd}
+.article a.external-link{display:inline-block;margin-top:14px;color:#2568dc;font-weight:800}
+
 footer{
 background:#06142d;
 color:white;
@@ -134,45 +140,14 @@ nav{gap:12px 16px}
 
 <main class="news-wrap">
 
-  <section class="news-list" aria-label="News List">
-    <article class="news-card">
-      <small>NEWS</small>
-      <h2><a href="#launch">Terra Meta Launch Announcement</a></h2>
-      <p>Terra Meta officially launched its integrated platform.</p>
-    </article>
-
-    <article class="news-card">
-      <small>PARTNERSHIP</small>
-      <h2><a href="#partnership">Partnership Expansion</a></h2>
-      <p>Strategic partnerships are expanding across industries.</p>
-    </article>
-
-    <article class="news-card">
-      <small>TECHNOLOGY</small>
-      <h2><a href="#technology-update">Technology Update</a></h2>
-      <p>New scalable architecture has been developed.</p>
-    </article>
+  <section class="news-list" aria-label="Automatic Business News">
+    <div id="news-list" class="news-status">Loading latest business, AI, technology, market, and investment news...</div>
   </section>
 
-  <section id="launch" class="article">
-    <h2>Terra Meta Launch Announcement</h2>
-    <p>Terra Meta officially launched its integrated platform to connect technology, innovation, and future business value.</p>
-    <p>The platform is designed to support business development, digital transformation, and scalable growth across industries.</p>
-    <a class="back-link" href="#top" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;">Back to top</a>
-  </section>
-
-  <section id="partnership" class="article">
-    <h2>Partnership Expansion</h2>
-    <p>Terra Meta is expanding strategic partnerships across industries to create stronger collaboration opportunities and market access.</p>
-    <p>The company continues to build relationships focused on practical business development and long-term value creation.</p>
-    <a class="back-link" href="#top" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;">Back to top</a>
-  </section>
-
-  <section id="technology-update" class="article">
-    <h2>Technology Update</h2>
-    <p>Terra Meta has developed a scalable architecture to support future-ready systems and digital frameworks.</p>
-    <p>The updated structure is intended to improve flexibility, maintainability, and expansion for future services.</p>
-    <a class="back-link" href="#top" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;">Back to top</a>
+  <section class="article">
+    <h2>Automatic News Update</h2>
+    <p>This page loads current news automatically from Google News RSS when visitors open the page. No manual upload is required.</p>
+    <p>If the external news feed is temporarily unavailable, fallback links to Google News are shown automatically.</p>
   </section>
 
 </main>
@@ -187,5 +162,62 @@ nav{gap:12px 16px}
   <p>© 2026 Terra Meta Co., Ltd.</p>
 </footer>
 
+
+<script>
+const NEWS_RSS_URL = "https://news.google.com/rss/search?q=business%20OR%20AI%20OR%20technology%20OR%20startup%20OR%20investment%20OR%20market&hl=en-US&gl=US&ceid=US:en";
+const NEWS_API_URL = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(NEWS_RSS_URL);
+
+function stripHtml(html){
+  const temp = document.createElement("div");
+  temp.innerHTML = html || "";
+  return temp.textContent || temp.innerText || "";
+}
+
+function renderFallbackNews(container){
+  const fallback = [
+    {title:"Latest global business and AI news", link:"https://news.google.com/search?q=business%20AI%20technology", date:"Auto news", desc:"Open current global business, AI, technology, market, and investment headlines."},
+    {title:"Technology, startup, and investment updates", link:"https://news.google.com/search?q=technology%20startup%20investment", date:"Auto news", desc:"Follow current technology, startup, and investment developments."},
+    {title:"Global economy and market news", link:"https://news.google.com/search?q=global%20economy%20market%20business", date:"Auto news", desc:"Track international economy, market, finance, and business news."}
+  ];
+  container.className = "news-list";
+  container.innerHTML = fallback.map(item => `
+    <article class="news-card">
+      <small>Google News</small>
+      <h2><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
+      <p>${item.desc}</p>
+      <div class="news-date">${item.date}</div>
+    </article>
+  `).join("");
+}
+
+async function loadNewsPage(){
+  const container = document.getElementById("news-list");
+  if(!container) return;
+  try{
+    const response = await fetch(NEWS_API_URL);
+    const data = await response.json();
+    if(!data.items || !data.items.length) throw new Error("No news items");
+
+    container.className = "news-list";
+    container.innerHTML = data.items.slice(0,20).map(item => {
+      const source = item.author || "Google News";
+      const date = item.pubDate ? item.pubDate.substring(0,10) : "Latest";
+      const desc = stripHtml(item.description).replace(item.title, "").trim().slice(0,260);
+      return `
+        <article class="news-card">
+          <small>${source}</small>
+          <h2><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h2>
+          <p>${desc || "Click the headline to read the full story."}</p>
+          <div class="news-date">${date}</div>
+        </article>
+      `;
+    }).join("");
+  }catch(error){
+    renderFallbackNews(container);
+  }
+}
+
+loadNewsPage();
+</script>
 </body>
 </html>
