@@ -355,7 +355,7 @@
       const emptyMessage = document.getElementById("emptyMessage");
 
       try {
-        const response = await fetch("news.json?version=" + Date.now());
+        const response = await fetch("./news.json", { cache: "no-store" });
         const newsItems = await response.json();
 
         if (!Array.isArray(newsItems) || newsItems.length === 0) {
