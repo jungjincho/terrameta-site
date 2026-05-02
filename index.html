@@ -201,6 +201,10 @@ border-top:1px solid #e6edf7;
 text-align:right;
 }
 .news-window-footer a{font-weight:800;color:#2568dc}
+.auto-news-section{background:#f7f9fc}
+.section-inner-news{max-width:900px;margin:0 auto}
+.single-news-window{margin-top:26px}
+
 
 @media(max-width:800px){
 header{padding:12px 16px}
@@ -271,23 +275,23 @@ TOGETHER.
 <p>Scalable digital frameworks and future-ready systems.</p>
 </section>
 
-<section id="news">
-<h2>News</h2>
-<p>Latest global business, AI, technology, market, and investment news is displayed automatically in the live news window below.</p>
+<section id="news" class="auto-news-section">
+  <div class="section-inner-news">
+    <h2>News</h2>
 
-<div class="news-window" aria-label="Automatic latest news window">
-  <div class="news-window-bar">
-    <span>Live Business News</span>
-    <div class="news-window-dots" aria-hidden="true"><span class="news-window-dot"></span><span class="news-window-dot"></span><span class="news-window-dot"></span></div>
+    <div class="news-window single-news-window" aria-label="Automatic latest news window">
+      <div class="news-window-bar">
+        <span>Live Business / AI News</span>
+        <div class="news-window-dots" aria-hidden="true"><span class="news-window-dot"></span><span class="news-window-dot"></span><span class="news-window-dot"></span></div>
+      </div>
+      <div id="news-container" class="news-window-body">
+        <div class="news-status">Loading latest news...</div>
+      </div>
+      <div class="news-window-footer">
+        <a href="news.html">View more news</a>
+      </div>
+    </div>
   </div>
-  <div id="news-container" class="news-window-body">
-    <div class="news-status">Loading latest news...</div>
-  </div>
-  <div class="news-window-footer">
-    <a href="news.html">Open full news window</a>
-  </div>
-</div>
-
 </section>
 
 <footer>
