@@ -1,5 +1,13 @@
 [
   {
+    "title": "There's a Long Shot Proposal to Protect California Workers From AI",
+    "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+    "publishedAt": "2026-05-08T15:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/69fa6c65cfdc5f2b42e5b5ba/191:100/w_1280,c_limit/pol_Tom_CA_GettyImages-2273635848.jpg",
+    "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence."
+  },
+  {
     "title": "Elon Musk's lawsuit is putting OpenAI's safety record under the microscope | TechCrunch",
     "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
     "publishedAt": "2026-05-07T19:21:21Z",
@@ -78,13 +86,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2273020723.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here. I promise that your money will not go…"
-  },
-  {
-    "title": "All the evidence unveiled so far in Musk v. Altman",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-    "publishedAt": "2026-04-29T18:06:35Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from be…"
   }
 ]
