@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Real Losers of the Musk v. Altman Trial",
+    "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+    "publishedAt": "2026-05-15T00:49:53Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a063a9b1d5880149b6572f1/191:100/w_1280,c_limit/Model-Behavior-We-Are-All-Losers-in-Musk-v-Altman-Business.jpg",
+    "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad."
+  },
+  {
     "title": "Joanna Stern is not a robot, but she lived with them",
     "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
     "publishedAt": "2026-05-11T13:48:57Z",
@@ -70,13 +78,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/69f14b40d98ff026bfabf317/191:100/w_1280,c_limit/Made-In-China-Super-PAC-Backed-By-OpenAI-Palantir-Paying-TikTok-Influencers-Business.jpg",
     "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China."
-  },
-  {
-    "title": "I've tested robot mowers for years - here's my expert advice for every yard type",
-    "url": "https://www.zdnet.com/home-and-office/yard-outdoors/how-to-choose-robot-mower-for-yard-expert-advice/",
-    "publishedAt": "2026-05-01T16:00:00Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/a/img/resize/6da6c64c8851c79dd9358bd1ff02307581afd6e7/2025/08/29/40dc648d-4ce0-4506-b060-1cfa087b9cd6/robot-mowers2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "summary": "I have one golden rule: It's not about the mower, it's about the yard. Here's my checklist for deciding which to buy."
   }
 ]
