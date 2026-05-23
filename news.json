@@ -1,5 +1,13 @@
 [
   {
+    "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+    "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+    "publishedAt": "2026-05-22T00:04:25Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a0f679a40b54a02fd444453/191:100/w_1280,c_limit/Model-Behavior-Can-OpenAI-Global-Affairs-Chief-Fix-AI-Reputation-Problem-Business.jpg",
+    "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise."
+  },
+  {
     "title": "The SpaceX IPO filing has arrived | TechCrunch",
     "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/",
     "publishedAt": "2026-05-20T20:55:43Z",
@@ -70,13 +78,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/stuart-russell-ai-getty.jpg?resize=1200,800",
     "summary": "Elon Musk's only expert witness at the OpenAI trial fears an AGI arms race | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "The creator of Roomba is back with a furry robot companion",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-    "publishedAt": "2026-05-04T16:53:14Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Golden.png?quality=90&strip=all&crop=0%2C1.8117057886209%2C100%2C96.376588422758&w=1200",
-    "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines & Ma…"
   }
 ]
