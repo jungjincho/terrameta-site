@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ferrari is using IBM's AI to create F1 superfans | TechCrunch",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "publishedAt": "2026-05-23T15:08:00Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
+    "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
+  },
+  {
     "title": "Boots Riley turns class struggle into comedy with I Love Boosters",
     "url": "https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview",
     "publishedAt": "2026-05-22T13:32:54Z",
@@ -54,29 +62,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
     "summary": "Korea's biggest manufacturers back Config, the TSMC of robot data | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "There's a Long Shot Proposal to Protect California Workers From AI",
-    "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "publishedAt": "2026-05-08T15:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/69fa6c65cfdc5f2b42e5b5ba/191:100/w_1280,c_limit/pol_Tom_CA_GettyImages-2273635848.jpg",
-    "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence."
-  },
-  {
-    "title": "Elon Musk's lawsuit is putting OpenAI's safety record under the microscope | TechCrunch",
-    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "publishedAt": "2026-05-07T19:21:21Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265445010.jpg?w=1024",
-    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence."
-  },
-  {
-    "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-    "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-    "publishedAt": "2026-05-05T11:59:20Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/69f9c20f546a456d51b2640c/191:100/w_1280,c_limit/GettyImages-2177657481.jpg",
-    "summary": "UK staff of Google's AI research lab hope to block the use of the company's artificial intelligence models in military settings."
   }
 ]
