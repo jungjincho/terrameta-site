@@ -1,5 +1,21 @@
 [
   {
+    "title": "The pope’s AI encyclical isn’t really about AI | TechCrunch",
+    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "publishedAt": "2026-05-25T15:11:06Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=1024",
+    "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
+  },
+  {
+    "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+    "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+    "publishedAt": "2026-05-25T15:05:07Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278126608.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.487862082976&w=1200",
+    "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which …"
+  },
+  {
     "title": "Ferrari is using IBM's AI to create F1 superfans | TechCrunch",
     "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "publishedAt": "2026-05-23T15:08:00Z",
@@ -46,21 +62,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a063a9b1d5880149b6572f1/191:100/w_1280,c_limit/Model-Behavior-We-Are-All-Losers-in-Musk-v-Altman-Business.jpg",
     "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad."
-  },
-  {
-    "title": "Joanna Stern is not a robot, but she lived with them",
-    "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
-    "publishedAt": "2026-05-11T13:48:57Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/DCD_joanna_stern.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my v…"
-  },
-  {
-    "title": "Korea's biggest manufacturers back Config, the TSMC of robot data | TechCrunch",
-    "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-    "publishedAt": "2026-05-11T10:59:11Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
-    "summary": "Korea's biggest manufacturers back Config, the TSMC of robot data | TechCrunchtechcrunch.com"
   }
 ]
