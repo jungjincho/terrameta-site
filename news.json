@@ -1,5 +1,13 @@
 [
   {
+    "title": "To Land a Job in AI, Try Reading Kant",
+    "url": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+    "publishedAt": "2026-05-26T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a0722c3cc137669535c6942/191:100/w_1280,c_limit/AIPhilosophers_v2.jpg",
+    "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?"
+  },
+  {
     "title": "The pope’s AI encyclical isn’t really about AI | TechCrunch",
     "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
     "publishedAt": "2026-05-25T15:11:06Z",
@@ -54,13 +62,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
     "summary": "Elon Musk said Sam Altman \"stole\" a non-profit — but the trial showed he had similar aims | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "The Real Losers of the Musk v. Altman Trial",
-    "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-    "publishedAt": "2026-05-15T00:49:53Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a063a9b1d5880149b6572f1/191:100/w_1280,c_limit/Model-Behavior-We-Are-All-Losers-in-Musk-v-Altman-Business.jpg",
-    "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad."
   }
 ]
