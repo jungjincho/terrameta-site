@@ -1,5 +1,21 @@
 [
   {
+    "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
+    "url": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
+    "publishedAt": "2026-05-27T14:51:30Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/a/img/resize/39c1e5d4adeb3a6619655b3f92d3c2a73383c956/2026/05/26/e66d62d4-e203-4c00-b4ad-11b7fd6dff9d/1000027098.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a hybrid infrastructure."
+  },
+  {
+    "title": "The Pope isn’t AGI-pilled",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+    "publishedAt": "2026-05-27T11:42:58Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2214106807.jpg?quality=90&strip=all&crop=0%2C10.735754453032%2C100%2C78.528491093936&w=1200",
+    "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect …"
+  },
+  {
     "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
     "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
     "publishedAt": "2026-05-26T20:46:03Z",
@@ -54,21 +70,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
     "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
-  },
-  {
-    "title": "Boots Riley turns class struggle into comedy with I Love Boosters",
-    "url": "https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview",
-    "publishedAt": "2026-05-22T13:32:54Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2276181257.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Before Boots Riley became the writer / director / musician behind Sorry to Bother You and I'm a Virgo, he was a young community organizer fighting for social justice as part of the Progressive Labor Party. Riley has channeled his anti-establishment, pro-worke…"
-  },
-  {
-    "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-    "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-    "publishedAt": "2026-05-22T00:04:25Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a0f679a40b54a02fd444453/191:100/w_1280,c_limit/Model-Behavior-Can-OpenAI-Global-Affairs-Chief-Fix-AI-Reputation-Problem-Business.jpg",
-    "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise."
   }
 ]
