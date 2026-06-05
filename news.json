@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+    "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "publishedAt": "2026-06-04T01:01:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a1f6447234d4b89dad80277/191:100/w_1280,c_limit/science_anthropic_final.jpg",
+    "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons."
+  },
+  {
     "title": "Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers",
     "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
     "publishedAt": "2026-06-03T18:07:11Z",
@@ -86,13 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=1024",
     "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
-  },
-  {
-    "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-    "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-    "publishedAt": "2026-05-25T15:05:07Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2278126608.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.487862082976&w=1200",
-    "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which …"
   }
 ]
