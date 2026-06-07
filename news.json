@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "publishedAt": "2026-06-06T17:42:15Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2021-02-03-at-1.18.03-PM-1.webp?resize=1200,833",
+    "summary": "Sriram Krishnan is leaving his role as White House AI advisor | TechCrunchtechcrunch.com"
+  },
+  {
     "title": "AirTrunk commits $30B to build 5GW of AI data centers in India | TechCrunch",
     "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
     "publishedAt": "2026-06-05T13:03:35Z",
@@ -78,13 +86,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/a/img/resize/39c1e5d4adeb3a6619655b3f92d3c2a73383c956/2026/05/26/e66d62d4-e203-4c00-b4ad-11b7fd6dff9d/1000027098.jpg?auto=webp&fit=crop&height=675&width=1200",
     "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a hybrid infrastructure."
-  },
-  {
-    "title": "The Pope isn’t AGI-pilled",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-    "publishedAt": "2026-05-27T11:42:58Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2214106807.jpg?quality=90&strip=all&crop=0%2C10.735754453032%2C100%2C78.528491093936&w=1200",
-    "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect …"
   }
 ]
