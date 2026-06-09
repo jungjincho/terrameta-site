@@ -1,5 +1,13 @@
 [
   {
+    "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+    "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+    "publishedAt": "2026-06-08T17:44:28Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a26d742255fdba4ebd668f3/191:100/w_1280,c_limit/GettyImages-2267728396.jpg",
+    "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups."
+  },
+  {
     "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
     "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
     "publishedAt": "2026-06-08T13:17:24Z",
@@ -78,13 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/VivaTech-phare.jpg?resize=1200,800",
     "summary": "The global AI race is often framed as a battle between the United States and China. But at VivaTech, Europe is expected to make the case for an entirely different model."
-  },
-  {
-    "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
-    "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
-    "publishedAt": "2026-05-29T20:56:59Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a18c5e0148c56039b79b0d5/191:100/w_1280,c_limit/Amazon-Turns-Buzzfeed-Good-Advice-Cupcake-Into-AI-Series-Culture-1164238077.jpg",
-    "summary": "Loryn Brantz created “The Good Advice Cupcake” for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent."
   }
 ]
