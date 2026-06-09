@@ -1,5 +1,13 @@
 [
   {
+    "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+    "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+    "publishedAt": "2026-06-08T13:17:24Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+    "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered every…"
+  },
+  {
     "title": "Sriram Krishnan is leaving his role as White House AI advisor | TechCrunch",
     "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
     "publishedAt": "2026-06-06T17:42:15Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a18c5e0148c56039b79b0d5/191:100/w_1280,c_limit/Amazon-Turns-Buzzfeed-Good-Advice-Cupcake-Into-AI-Series-Culture-1164238077.jpg",
     "summary": "Loryn Brantz created “The Good Advice Cupcake” for BuzzFeed years ago. The company licensed the character for a new Amazon series—made with AI—without her consent."
-  },
-  {
-    "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
-    "url": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
-    "publishedAt": "2026-05-27T14:51:30Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/a/img/resize/39c1e5d4adeb3a6619655b3f92d3c2a73383c956/2026/05/26/e66d62d4-e203-4c00-b4ad-11b7fd6dff9d/1000027098.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a hybrid infrastructure."
   }
 ]
