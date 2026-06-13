@@ -1,5 +1,13 @@
 [
   {
+    "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+    "publishedAt": "2026-06-12T14:07:41Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951505/VRG_Illo_STK173_L_Normand_JeffBezos_Positive.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the d…"
+  },
+  {
     "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
     "url": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
     "publishedAt": "2026-06-11T20:50:13Z",
@@ -78,13 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
     "summary": "Is Silicon Valley ready to put robots in people's homes? Hello Robot is. | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-    "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-    "publishedAt": "2026-06-04T01:01:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a1f6447234d4b89dad80277/191:100/w_1280,c_limit/science_anthropic_final.jpg",
-    "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons."
   }
 ]
