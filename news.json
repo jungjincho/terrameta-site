@@ -1,5 +1,21 @@
 [
   {
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI | TechCrunch",
+    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "publishedAt": "2026-06-23T01:28:50Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+  },
+  {
+    "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+    "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+    "publishedAt": "2026-06-22T20:28:53Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a39919203c4ca2994a792a9/191:100/w_1280,c_limit/GettyImages-1297676683.jpg",
+    "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models."
+  },
+  {
     "title": "Billionaire Ambani wants AI in every call, app, and home | TechCrunch",
     "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
     "publishedAt": "2026-06-19T15:23:28Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a2b1d3f060e0432aa026915/191:100/w_1280,c_limit/Elon-Effigy-Business-2280413039.jpg",
     "summary": "Activists raised a 40-foot-tall inflatable Elon Musk in Manhattan to draw attention to the risk he allegedly poses to investors."
-  },
-  {
-    "title": "China Opens World's First Wind-Powered Underwater Data Center",
-    "url": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
-    "publishedAt": "2026-06-10T13:39:32Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/68fab92565a13f02607aecfa/191:100/w_1280,c_limit/Screenshot%202025-10-23%20at%2011.33.04%E2%80%AFa.m..png",
-    "summary": "With an initial capacity of 24 megawatts, the innovative data center uses seawater as a natural cooling system."
-  },
-  {
-    "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
-    "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
-    "publishedAt": "2026-06-10T10:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a26f2821d5621d5724e9dd9/191:100/w_1280,c_limit/Artificial-Intelligence-Sneaks-into-World-Cup-2279691552.jpg",
-    "summary": "The Argentine national team will be Google’s test bench and technological showcase during the World Cup."
   }
 ]
