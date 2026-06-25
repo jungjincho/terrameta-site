@@ -1,5 +1,13 @@
 [
   {
+    "title": "I Met With China's Top AI Experts. They're Freaking Out, Too",
+    "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+    "publishedAt": "2026-06-24T18:45:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a3af3bc66e0743c653aa81f/191:100/w_1280,c_limit/AI-Lab-America-China-Have-No-Choice-But-to-Work-Together-to-Secure-AI-Open-Frontier-Business.jpg",
+    "summary": "The AI arms race between China and the US has researchers on both sides worried about a \"Chernobyl moment.\""
+  },
+  {
     "title": "Hollywood is bending the knee to OpenAI",
     "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
     "publishedAt": "2026-06-23T22:03:18Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a2c41ce14f8a13c2f9c4aac/191:100/w_1280,c_limit/googleAI.jpg",
     "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates."
-  },
-  {
-    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-    "publishedAt": "2026-06-12T20:43:35Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' …"
   }
 ]
