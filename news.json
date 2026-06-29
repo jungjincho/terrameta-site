@@ -1,5 +1,13 @@
 [
   {
+    "title": "China Defies US Restrictions and Builds the World’s Fastest Supercomputer",
+    "url": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
+    "publishedAt": "2026-06-28T09:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a3e912435a32ef4cd784d63/191:100/w_1280,c_limit/supercomputadora%20china%20EE%20UU%201228298015.jpg",
+    "summary": "The Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs."
+  },
+  {
     "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
     "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
     "publishedAt": "2026-06-26T00:49:13Z",
@@ -78,13 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
     "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India."
-  },
-  {
-    "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-    "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
-    "publishedAt": "2026-06-15T21:33:46Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a3066677da677701d8b62cd/191:100/w_1280,c_limit/Andrew-Bosworth-Urges-Employees-Business-2235573265.jpg",
-    "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale."
   }
 ]
