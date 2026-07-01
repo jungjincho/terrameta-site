@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meet the lawyer who beat Elon Musk — twice",
+    "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+    "publishedAt": "2026-06-30T00:26:38Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. …"
+  },
+  {
+    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+    "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+    "publishedAt": "2026-06-29T21:49:26Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/191:100/w_1280,c_limit/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg",
+    "summary": "Hundreds of contractors working on a project for Meta pretended to be kids—and then prompted rival chatbots like Gemini and ChatGPT to discuss high-risk subjects."
+  },
+  {
     "title": "China Defies US Restrictions and Builds the World’s Fastest Supercomputer",
     "url": "https://www.wired.com/story/china-defies-us-restrictions-and-builds-the-worlds-fastest-supercomputer/",
     "publishedAt": "2026-06-28T09:00:00Z",
@@ -70,21 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
     "summary": "Billionaire Ambani wants AI in every call, app, and home | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "Locked Out of the World Cup: A Year Marked by Barriers, Borders, and Broken Access",
-    "url": "https://www.wired.com/story/locked-out-world-cup-america-visas-fans/",
-    "publishedAt": "2026-06-18T10:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a31b31cd9a652f4cc457591/191:100/w_1280,c_limit/Locked-out_lead.jpg",
-    "summary": "The 2026 World Cup promises a global celebration. Many Arab fans may find themselves locked out."
-  },
-  {
-    "title": "Canadian pension giant joins race to fund India's AI-fueled data center boom | TechCrunch",
-    "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "publishedAt": "2026-06-17T12:38:09Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
-    "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India."
   }
 ]
