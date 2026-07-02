@@ -1,5 +1,21 @@
 [
   {
+    "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+    "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+    "publishedAt": "2026-07-01T18:10:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a42d38427caad328b221827/191:100/w_1280,c_limit/AI-Lab-Ring-Alarm-on-AI-Business.jpg",
+    "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that."
+  },
+  {
+    "title": "Want a private ChatGPT alternative? How Proton's Lumo 2.0 locks down your data, EU style",
+    "url": "https://www.zdnet.com/article/want-private-chatgpt-alternative-protons-lumo-2-0-locks-down-your-data/",
+    "publishedAt": "2026-07-01T15:25:42Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/a/img/resize/7a53d1f09af0cb323c8edb68f1d33f2af4ebee9f/2026/07/01/dcf6d321-a590-46b9-b54b-5a702da0de41/lumo2extra.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "summary": "The maker of ProtonMail and ProtonVPN says its second-generation chatbot is never trained on user data."
+  },
+  {
     "title": "Meet the lawyer who beat Elon Musk — twice",
     "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
     "publishedAt": "2026-06-30T00:26:38Z",
@@ -62,21 +78,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758%2C21.869598945592%2C95.251249694824%2C74.804666989327&w=1200",
     "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mub…"
-  },
-  {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI | TechCrunch",
-    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "publishedAt": "2026-06-23T01:28:50Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
-    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-  },
-  {
-    "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
-    "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
-    "publishedAt": "2026-06-22T20:28:53Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a39919203c4ca2994a792a9/191:100/w_1280,c_limit/GettyImages-1297676683.jpg",
-    "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers' keystroke data to train AI models."
   }
 ]
