@@ -1,5 +1,13 @@
 [
   {
+    "title": "Jersey Mike's IPO illustrates how bad the AI hype has become | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "publishedAt": "2026-07-02T20:13:56Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
+    "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold."
+  },
+  {
     "title": "You Can Now Sound the Alarm on AI Behaving Badly",
     "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
     "publishedAt": "2026-07-01T18:10:00Z",
@@ -70,13 +78,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a3af3bc66e0743c653aa81f/191:100/w_1280,c_limit/AI-Lab-America-China-Have-No-Choice-But-to-Work-Together-to-Secure-AI-Open-Frontier-Business.jpg",
     "summary": "The AI arms race between China and the US has researchers on both sides worried about a \"Chernobyl moment.\""
-  },
-  {
-    "title": "Hollywood is bending the knee to OpenAI",
-    "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "publishedAt": "2026-06-23T22:03:18Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758%2C21.869598945592%2C95.251249694824%2C74.804666989327&w=1200",
-    "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mub…"
   }
 ]
