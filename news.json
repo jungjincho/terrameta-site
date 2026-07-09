@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+    "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+    "publishedAt": "2026-07-07T21:30:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a431773890f52402e5ab8b7/191:100/w_1280,c_limit/Joshua-Achiam-Leaving-OpenAI-Business-2274413917.jpg",
+    "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial."
+  },
+  {
     "title": "The robotaxi law that could ban Tesla",
     "url": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
     "publishedAt": "2026-07-07T19:11:56Z",
@@ -70,13 +78,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a3c48b56c59c72c499e0fad/191:100/w_1280,c_limit/Model-Behavior-AI-Safe-Only-With-Anthropic-Business.jpg",
     "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like."
-  },
-  {
-    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment | TechCrunch",
-    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "publishedAt": "2026-06-25T12:02:51Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-844105434.jpg?w=1024",
-    "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
   }
 ]
