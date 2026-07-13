@@ -1,5 +1,13 @@
 [
   {
+    "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "publishedAt": "2026-07-12T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg",
+    "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases."
+  },
+  {
     "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
     "url": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
     "publishedAt": "2026-07-10T23:16:56Z",
@@ -70,13 +78,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/a/img/resize/7a53d1f09af0cb323c8edb68f1d33f2af4ebee9f/2026/07/01/dcf6d321-a590-46b9-b54b-5a702da0de41/lumo2extra.jpg?auto=webp&fit=crop&height=675&width=1200",
     "summary": "The maker of ProtonMail and ProtonVPN says its second-generation chatbot is never trained on user data."
-  },
-  {
-    "title": "Meet the lawyer who beat Elon Musk — twice",
-    "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-    "publishedAt": "2026-06-30T00:26:38Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. …"
   }
 ]
