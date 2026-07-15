@@ -1,5 +1,13 @@
 [
   {
+    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+    "publishedAt": "2026-07-14T16:47:08Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?resize=1200,901",
+    "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
+  },
+  {
     "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
     "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
     "publishedAt": "2026-07-14T09:00:00Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a42d38427caad328b221827/191:100/w_1280,c_limit/AI-Lab-Ring-Alarm-on-AI-Business.jpg",
     "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that."
-  },
-  {
-    "title": "Want a private ChatGPT alternative? How Proton's Lumo 2.0 locks down your data, EU style",
-    "url": "https://www.zdnet.com/article/want-private-chatgpt-alternative-protons-lumo-2-0-locks-down-your-data/",
-    "publishedAt": "2026-07-01T15:25:42Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/a/img/resize/7a53d1f09af0cb323c8edb68f1d33f2af4ebee9f/2026/07/01/dcf6d321-a590-46b9-b54b-5a702da0de41/lumo2extra.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "summary": "The maker of ProtonMail and ProtonVPN says its second-generation chatbot is never trained on user data."
   }
 ]
