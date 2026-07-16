@@ -1,5 +1,13 @@
 [
   {
+    "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+    "url": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+    "publishedAt": "2026-07-14T22:08:30Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a56781e86e56eae23982c5f/191:100/w_1280,c_limit/GettyImages-1738682825.jpg",
+    "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube."
+  },
+  {
     "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO | TechCrunch",
     "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
     "publishedAt": "2026-07-14T16:47:08Z",
@@ -78,13 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
     "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold."
-  },
-  {
-    "title": "You Can Now Sound the Alarm on AI Behaving Badly",
-    "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-    "publishedAt": "2026-07-01T18:10:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a42d38427caad328b221827/191:100/w_1280,c_limit/AI-Lab-Ring-Alarm-on-AI-Business.jpg",
-    "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that."
   }
 ]
