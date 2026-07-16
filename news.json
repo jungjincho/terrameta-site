@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI Isn’t Smarter Than a Baby—Yet",
+    "url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+    "publishedAt": "2026-07-15T18:30:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a56a73aa8c3319e5ecf8c80/191:100/w_1280,c_limit/AI-Lab-AI-Still-Isnt-Smarter-Than-a-Baby-Business.jpg",
+    "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains."
+  },
+  {
+    "title": "Thinking Machines Lab Drops Its First Model",
+    "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+    "publishedAt": "2026-07-15T18:05:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a56ae3fc18e5c0be30a7462/191:100/w_1280,c_limit/Thinking-Labs-Releasing-Its-First-Open-Weight-Model-Business-2279106900.jpg",
+    "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI."
+  },
+  {
     "title": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain",
     "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
     "publishedAt": "2026-07-15T12:00:00Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a431773890f52402e5ab8b7/191:100/w_1280,c_limit/Joshua-Achiam-Leaving-OpenAI-Business-2274413917.jpg",
     "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial."
-  },
-  {
-    "title": "The robotaxi law that could ban Tesla",
-    "url": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
-    "publishedAt": "2026-07-07T19:11:56Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268625_A_New_Jersey_bill_would_keep_Tesla_Robotaxis_out_of_the_state__and_decide_how_AVs_are_built_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "For more than a decade, one question has loomed over the race to build autonomous vehicles: Are cameras alone enough to safely replace human drivers, or do truly driverless cars need additional, overlapping sensors like lidar and radar to navigate the world r…"
-  },
-  {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI | TechCrunch",
-    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "publishedAt": "2026-07-06T18:35:04Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
-    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
   }
 ]
