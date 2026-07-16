@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain",
+    "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+    "publishedAt": "2026-07-15T12:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/191:100/w_1280,c_limit/AppleIDBrainScan.jpg",
+    "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test."
+  },
+  {
+    "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
+    "url": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
+    "publishedAt": "2026-07-15T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a56d2eadc766a3e72330fe5/191:100/w_1280,c_limit/Ebike-Delivery-Went-Missing-Gear%202%20(0-00-03-22).jpg",
+    "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating."
+  },
+  {
     "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
     "url": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
     "publishedAt": "2026-07-14T22:08:30Z",
@@ -78,13 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
     "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-  },
-  {
-    "title": "Jersey Mike's IPO illustrates how bad the AI hype has become | TechCrunch",
-    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "publishedAt": "2026-07-02T20:13:56Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
-    "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold."
   }
 ]
