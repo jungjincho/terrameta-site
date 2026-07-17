@@ -1,5 +1,29 @@
 [
   {
+    "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+    "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+    "publishedAt": "2026-07-16T18:35:18Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a591d287083bdea755df740/191:100/w_1280,c_limit/Model-Behavior-Cesar-Anthropic-Business.jpg",
+    "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated."
+  },
+  {
+    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+    "publishedAt": "2026-07-16T15:03:58Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
+    "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificia…"
+  },
+  {
+    "title": "How Elorian AI pulled off a $300M pre-seed valuation",
+    "url": "https://techcrunch.com/podcast/how-elorian-ai-pulled-off-a-300m-pre-seed-valuation/",
+    "publishedAt": "2026-07-16T14:07:30Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
+    "summary": "Building an AI startup is one thing. Raising one of the largest seed rounds of the year before launching a product is something else entirely. In this episode of Build Mode, host and Startup Battlefield lead Isabelle Johannessen sits down with Andrew Dai, fou…"
+  },
+  {
     "title": "AI Isn’t Smarter Than a Baby—Yet",
     "url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
     "publishedAt": "2026-07-15T18:30:00Z",
@@ -70,29 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a5033fcb7497b81a1eaca57/191:100/w_1280,c_limit/science_microsoft_emissions.jpg",
     "summary": "Data centers are driving up the company’s use of electricity—and carbon pollution."
-  },
-  {
-    "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-    "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-    "publishedAt": "2026-07-10T06:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a4faec15defba4430906469/191:100/w_1280,c_limit/GettyImages-2284616220.jpg",
-    "summary": "Amid live coding sessions and Silicon Valley optimism, the UN’s AI for Good summit wrestled with an increasingly urgent question: Can global governance catch up before the technology races beyond its control?"
-  },
-  {
-    "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-    "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
-    "publishedAt": "2026-07-08T09:30:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a4be55744dc79c43267387c/191:100/w_1280,c_limit/DeepMind-Alum-QandA-Verity-Harding-Business.jpg",
-    "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape."
-  },
-  {
-    "title": "OpenAI’s Chief Futurist Is Leaving the Company",
-    "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-    "publishedAt": "2026-07-07T21:30:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a431773890f52402e5ab8b7/191:100/w_1280,c_limit/Joshua-Achiam-Leaving-OpenAI-Business-2274413917.jpg",
-    "summary": "Joshua Achiam spent nearly nine years at OpenAI researching AI safety and made a memorable appearance in the Musk v. Altman trial."
   }
 ]
