@@ -1,5 +1,21 @@
 [
   {
+    "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+    "publishedAt": "2026-07-21T19:05:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a56bc3736e98c56882c9897/191:100/w_1280,c_limit/Pat-Gelsinger-Q&A-Business-2280683501.jpg",
+    "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light."
+  },
+  {
+    "title": "How spatial audio works on headphones and speakers - and the best way to experience it",
+    "url": "https://www.zdnet.com/home-and-office/home-entertainment/how-spatial-audio-works-best-way-to-experience-it/",
+    "publishedAt": "2026-07-21T17:57:57Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/a/img/resize/7487c9fbb2423754ff49835ee261417917be4f30/2026/05/19/fa456313-7d66-4f4f-8836-3aacccd7153f/100xcoll-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "summary": "The best way to experience a 3D soundscape depends on your audio format and device compatibility."
+  },
+  {
     "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation | TechCrunch",
     "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
     "publishedAt": "2026-07-20T23:39:35Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a56781e86e56eae23982c5f/191:100/w_1280,c_limit/GettyImages-1738682825.jpg",
     "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube."
-  },
-  {
-    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO | TechCrunch",
-    "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-    "publishedAt": "2026-07-14T16:47:08Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?resize=1200,901",
-    "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation."
-  },
-  {
-    "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
-    "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-    "publishedAt": "2026-07-14T09:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a54c2f2fb247c83ade3f957/191:100/w_1280,c_limit/GettyImages-2269243394.jpg",
-    "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist."
   }
 ]
