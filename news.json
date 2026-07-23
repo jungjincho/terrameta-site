@@ -1,5 +1,13 @@
 [
   {
+    "title": "I tried Samsung's new wide Galaxy Z Fold 8, and it's my favorite product of Unpacked 2026",
+    "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-hands-on/",
+    "publishedAt": "2026-07-22T13:00:42Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/a/img/resize/17e8ab3bcf7968234dfc1a6782c030b9e7d5a09d/2026/07/21/c3534a76-8c79-4901-869c-fffd5519f8c6/img-20260720-105631-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "summary": "The new wide-fold form factor is better than traditional book-style foldables."
+  },
+  {
     "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
     "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
     "publishedAt": "2026-07-21T19:05:00Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a56d2eadc766a3e72330fe5/191:100/w_1280,c_limit/Ebike-Delivery-Went-Missing-Gear%202%20(0-00-03-22).jpg",
     "summary": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating."
-  },
-  {
-    "title": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
-    "url": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
-    "publishedAt": "2026-07-14T22:08:30Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a56781e86e56eae23982c5f/191:100/w_1280,c_limit/GettyImages-1738682825.jpg",
-    "summary": "The restrictions, which can be turned off, will include a crackdown on “addictive” app features and will be in addition to a total ban on children under 16 accessing platforms like TikTok and YouTube."
   }
 ]
