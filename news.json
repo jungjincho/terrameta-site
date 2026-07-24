@@ -1,5 +1,13 @@
 [
   {
+    "title": "Runway launches AI model router as generative media gets crowded | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "publishedAt": "2026-07-23T17:07:35Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
+    "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup"
+  },
+  {
     "title": "OpenAI's attack agent did exactly what it was told - just more relentlessly than expected",
     "url": "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
     "publishedAt": "2026-07-23T13:31:54Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a56a73aa8c3319e5ecf8c80/191:100/w_1280,c_limit/AI-Lab-AI-Still-Isnt-Smarter-Than-a-Baby-Business.jpg",
     "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains."
-  },
-  {
-    "title": "Thinking Machines Lab Drops Its First Model",
-    "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-    "publishedAt": "2026-07-15T18:05:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a56ae3fc18e5c0be30a7462/191:100/w_1280,c_limit/Thinking-Labs-Releasing-Its-First-Open-Weight-Model-Business-2279106900.jpg",
-    "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI."
   }
 ]
