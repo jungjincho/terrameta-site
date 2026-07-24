@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI's attack agent did exactly what it was told - just more relentlessly than expected",
+    "url": "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
+    "publishedAt": "2026-07-23T13:31:54Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/a/img/resize/a035c23a58ce8308e17a308b1984c3e9ec766e00/2026/07/23/389cae2b-9827-44ac-8c8d-c560b498fe79/hugging-face-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "summary": "OpenAI's unintended attack on Hugging Face startled the world because its AI agent was acting on its own. But that's exactly what agentic AI is designed to do. We just didn't expect it to do it so well."
+  },
+  {
     "title": "Inflection AI returns to consumer market with Pi Journeys after Microsoft upheaval",
     "url": "https://venturebeat.com/orchestration/inflection-ai-returns-to-consumer-market-with-pi-journeys-after-microsoft-upheaval",
     "publishedAt": "2026-07-22T19:10:34Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a56ae3fc18e5c0be30a7462/191:100/w_1280,c_limit/Thinking-Labs-Releasing-Its-First-Open-Weight-Model-Business-2279106900.jpg",
     "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI."
-  },
-  {
-    "title": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain",
-    "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-    "publishedAt": "2026-07-15T12:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/191:100/w_1280,c_limit/AppleIDBrainScan.jpg",
-    "summary": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test."
   }
 ]
