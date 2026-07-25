@@ -1,5 +1,13 @@
 [
   {
+    "title": "Some Kids Will Never Think AI Is Cool",
+    "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+    "publishedAt": "2026-07-24T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a54d4fa2f80ee666004c193/191:100/w_1280,c_limit/071326_9-Reasons-Kids-Hate-AI-01.jpg",
+    "summary": "“I think it should stand for ‘artificial idiot,’” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”"
+  },
+  {
     "title": "Runway launches AI model router as generative media gets crowded | TechCrunch",
     "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "publishedAt": "2026-07-23T17:07:35Z",
@@ -86,13 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
     "summary": "Building an AI startup is one thing. Raising one of the largest seed rounds of the year before launching a product is something else entirely. In this episode of Build Mode, host and Startup Battlefield lead Isabelle Johannessen sits down with Andrew Dai, fou…"
-  },
-  {
-    "title": "AI Isn’t Smarter Than a Baby—Yet",
-    "url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
-    "publishedAt": "2026-07-15T18:30:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a56a73aa8c3319e5ecf8c80/191:100/w_1280,c_limit/AI-Lab-AI-Still-Isnt-Smarter-Than-a-Baby-Business.jpg",
-    "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains."
   }
 ]
