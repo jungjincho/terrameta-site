@@ -1,5 +1,21 @@
 [
   {
+    "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+    "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+    "publishedAt": "2026-07-24T15:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a62963a17ddff986dd664a4/191:100/w_1280,c_limit/Backchannel-Silicon-Valley-Divide-Over-Chinese-AI-Business.jpg",
+    "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take."
+  },
+  {
+    "title": "The tech-broification of American science has officially begun",
+    "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+    "publishedAt": "2026-07-24T14:44:15Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" A…"
+  },
+  {
     "title": "Some Kids Will Never Think AI Is Cool",
     "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
     "publishedAt": "2026-07-24T10:00:00Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a591d287083bdea755df740/191:100/w_1280,c_limit/Model-Behavior-Cesar-Anthropic-Business.jpg",
     "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated."
-  },
-  {
-    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product | TechCrunch",
-    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-    "publishedAt": "2026-07-16T15:03:58Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
-    "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificia…"
-  },
-  {
-    "title": "How Elorian AI pulled off a $300M pre-seed valuation",
-    "url": "https://techcrunch.com/podcast/how-elorian-ai-pulled-off-a-300m-pre-seed-valuation/",
-    "publishedAt": "2026-07-16T14:07:30Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
-    "summary": "Building an AI startup is one thing. Raising one of the largest seed rounds of the year before launching a product is something else entirely. In this episode of Build Mode, host and Startup Battlefield lead Isabelle Johannessen sits down with Andrew Dai, fou…"
   }
 ]
