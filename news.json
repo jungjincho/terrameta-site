@@ -1,5 +1,13 @@
 [
   {
+    "title": "How to Bring a Geothermal Well Back from the Dead",
+    "url": "https://www.wired.com/story/zanskar-geothermal-well-back-from-dead/",
+    "publishedAt": "2026-07-29T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a68b919fe9a62d3a152ba4b/191:100/w_1280,c_limit/Flow%20testing%20LDG%2044-7%20most%20productive%20pumped%20geothermal%20well%20in%20the%20US%20Zanskar.png",
+    "summary": "Startup Zanskar has created one of the most productive geothermal wells in the US at a power plant that had been in decline for years."
+  },
+  {
     "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
     "url": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
     "publishedAt": "2026-07-27T21:06:54Z",
@@ -78,13 +86,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/a/img/resize/17e8ab3bcf7968234dfc1a6782c030b9e7d5a09d/2026/07/21/c3534a76-8c79-4901-869c-fffd5519f8c6/img-20260720-105631-1.jpg?auto=webp&fit=crop&height=675&width=1200",
     "summary": "The new wide-fold form factor is better than traditional book-style foldables."
-  },
-  {
-    "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
-    "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
-    "publishedAt": "2026-07-21T19:05:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a56bc3736e98c56882c9897/191:100/w_1280,c_limit/Pat-Gelsinger-Q&A-Business-2280683501.jpg",
-    "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light."
   }
 ]
