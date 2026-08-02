@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "publishedAt": "2026-07-31T21:16:29Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&strip=all&crop=2.6881256103516%2C4.7093735253803%2C97.311874389648%2C90.581252949239&w=1200",
+    "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters ha…"
+  },
+  {
     "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
     "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
     "publishedAt": "2026-07-30T20:12:57Z",
@@ -78,13 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
     "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup"
-  },
-  {
-    "title": "OpenAI's attack agent did exactly what it was told - just more relentlessly than expected",
-    "url": "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
-    "publishedAt": "2026-07-23T13:31:54Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/a/img/resize/a035c23a58ce8308e17a308b1984c3e9ec766e00/2026/07/23/389cae2b-9827-44ac-8c8d-c560b498fe79/hugging-face-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "summary": "OpenAI's unintended attack on Hugging Face startled the world because its AI agent was acting on its own. But that's exactly what agentic AI is designed to do. We just didn't expect it to do it so well."
   }
 ]
