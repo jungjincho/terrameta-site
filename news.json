@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
+    "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
+    "publishedAt": "2026-08-02T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a6d1675ffa01fba7c8c3164/191:100/w_1280,c_limit/GettyImages-2162375654.jpg",
+    "summary": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder."
+  },
+  {
     "title": "Is paying artists enough to convince them to embrace AI?",
     "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
     "publishedAt": "2026-07-31T21:16:29Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a54d4fa2f80ee666004c193/191:100/w_1280,c_limit/071326_9-Reasons-Kids-Hate-AI-01.jpg",
     "summary": "“I think it should stand for ‘artificial idiot,’” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”"
-  },
-  {
-    "title": "Runway launches AI model router as generative media gets crowded | TechCrunch",
-    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "publishedAt": "2026-07-23T17:07:35Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
-    "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup"
   }
 ]
