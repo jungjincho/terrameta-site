@@ -1,5 +1,13 @@
 [
   {
+    "title": "Taught by AI pioneers, Stanford's free online course takes you far beyond ChatGPT",
+    "url": "https://www.zdnet.com/article/free-ai-course-stanford/",
+    "publishedAt": "2026-08-06T12:45:23Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/a/img/resize/114bdc2c3ca3fcedf67212b9ad12b8d231bd6a79/2026/08/06/ba4b017f-741d-41a9-bcc8-268d629051eb/gettyimages-2149462987.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "summary": "Most AI courses teach today's tools, but this free Stanford classic by Peter Norvig and Sebastian Thrun dives into the deeper foundational ideas you need to truly understand artificial intelligence."
+  },
+  {
     "title": "Can Reddit fend off a new wave of AI SEO spam?",
     "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
     "publishedAt": "2026-08-04T02:04:10Z",
@@ -62,13 +70,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_20260727_SmithAltana.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first few waves of tariffs …"
-  },
-  {
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others | TechCrunch",
-    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "publishedAt": "2026-07-26T01:32:06Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
-    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
   }
 ]
