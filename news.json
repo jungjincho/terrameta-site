@@ -1,5 +1,13 @@
 [
   {
+    "title": "Scientists Used AI to Create 16 New Viruses",
+    "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "publishedAt": "2026-08-07T14:13:57Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/191:100/w_1280,c_limit/virusIA.jpg",
+    "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation."
+  },
+  {
     "title": "Taught by AI pioneers, Stanford's free online course takes you far beyond ChatGPT",
     "url": "https://www.zdnet.com/article/free-ai-course-stanford/",
     "publishedAt": "2026-08-06T12:45:23Z",
@@ -62,13 +70,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a67bbceae27b42b1eabd271/191:100/w_1280,c_limit/incendios%20Espa%C3%B1a%20tecnolog%C3%ADa%202285568676.jpg",
     "summary": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them."
-  },
-  {
-    "title": "Tariffs didn’t bring manufacturing jobs back to the US",
-    "url": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
-    "publishedAt": "2026-07-27T13:56:02Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_20260727_SmithAltana.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Today, I’m talking with Evan Smith, who is cofounder and CEO of Altana, a company that develops software tools to manage big, messy supply chain networks around the world. We last had Evan on in early 2025 to talk about how Trump’s first few waves of tariffs …"
   }
 ]
