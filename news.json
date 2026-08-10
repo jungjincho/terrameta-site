@@ -1,5 +1,29 @@
 [
   {
+    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire | TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+    "publishedAt": "2026-08-09T16:10:56Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas.jpg?resize=1200,676",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+  },
+  {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy | TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "publishedAt": "2026-08-09T15:03:45Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
+    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
+  },
+  {
+    "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+    "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+    "publishedAt": "2026-08-07T18:15:39Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+    "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has le…"
+  },
+  {
     "title": "Scientists Used AI to Create 16 New Viruses",
     "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
     "publishedAt": "2026-08-07T14:13:57Z",
@@ -54,21 +78,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&strip=all&crop=0%2C3.4578967768132%2C100%2C93.084206446374&w=1200",
     "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now,…"
-  },
-  {
-    "title": "How to Bring a Geothermal Well Back from the Dead",
-    "url": "https://www.wired.com/story/zanskar-geothermal-well-back-from-dead/",
-    "publishedAt": "2026-07-29T10:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a68b919fe9a62d3a152ba4b/191:100/w_1280,c_limit/Flow%20testing%20LDG%2044-7%20most%20productive%20pumped%20geothermal%20well%20in%20the%20US%20Zanskar.png",
-    "summary": "Startup Zanskar has created one of the most productive geothermal wells in the US at a power plant that had been in decline for years."
-  },
-  {
-    "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
-    "url": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
-    "publishedAt": "2026-07-27T21:06:54Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a67bbceae27b42b1eabd271/191:100/w_1280,c_limit/incendios%20Espa%C3%B1a%20tecnolog%C3%ADa%202285568676.jpg",
-    "summary": "Climate change is upping the odds of major wildfires, creating a need for new tools to combat them."
   }
 ]
