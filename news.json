@@ -1,5 +1,13 @@
 [
   {
+    "title": "The AI Slop Backlash Is Actually Having an Impact",
+    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "publishedAt": "2026-08-10T11:30:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg",
+    "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content."
+  },
+  {
     "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire | TechCrunch",
     "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
     "publishedAt": "2026-08-09T16:10:56Z",
@@ -70,13 +78,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
     "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics."
-  },
-  {
-    "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-    "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-    "publishedAt": "2026-07-30T16:33:32Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25777487/millennial_explorer_a_comp_v004.png?quality=90&strip=all&crop=0%2C3.4578967768132%2C100%2C93.084206446374&w=1200",
-    "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now,…"
   }
 ]
