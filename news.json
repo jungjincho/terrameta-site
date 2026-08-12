@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
+    "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+    "publishedAt": "2026-08-11T13:45:02Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a7a2036c58ed7121c9fbad3/191:100/w_1280,c_limit/AIEmission.jpg",
+    "summary": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent—vastly outpacing the impact of data centers."
+  },
+  {
     "title": "Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food",
     "url": "https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/",
     "publishedAt": "2026-08-11T10:00:00Z",
@@ -70,13 +78,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/a/img/resize/114bdc2c3ca3fcedf67212b9ad12b8d231bd6a79/2026/08/06/ba4b017f-741d-41a9-bcc8-268d629051eb/gettyimages-2149462987.jpg?auto=webp&fit=crop&height=675&width=1200",
     "summary": "Most AI courses teach today's tools, but this free Stanford classic by Peter Norvig and Sebastian Thrun dives into the deeper foundational ideas you need to truly understand artificial intelligence."
-  },
-  {
-    "title": "Can Reddit fend off a new wave of AI SEO spam?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-    "publishedAt": "2026-08-04T02:04:10Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous e…"
   }
 ]
