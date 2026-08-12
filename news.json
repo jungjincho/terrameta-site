@@ -1,5 +1,13 @@
 [
   {
+    "title": "Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food",
+    "url": "https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/",
+    "publishedAt": "2026-08-11T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a75bce7b453ac64d9534f56/191:100/w_1280,c_limit/Tom%20Adams%20in%20Greenhouse%20with%20Blackberry.jpg",
+    "summary": "Startups and Big Ag are using Crispr gene editing to create crops that taste better and grow on a hotter planet. But will they find a market?"
+  },
+  {
     "title": "Mark Zuckerberg doesn’t understand how to live",
     "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
     "publishedAt": "2026-08-10T21:54:46Z",
@@ -70,13 +78,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Verge-RedditBrands_V1-Final.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous e…"
-  },
-  {
-    "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-    "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
-    "publishedAt": "2026-08-02T10:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a6d1675ffa01fba7c8c3164/191:100/w_1280,c_limit/GettyImages-2162375654.jpg",
-    "summary": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder."
   }
 ]
