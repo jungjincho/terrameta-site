@@ -1,5 +1,13 @@
 [
   {
+    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+    "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+    "publishedAt": "2026-08-12T18:45:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a7b77e36e37f6db6a06a372/191:100/w_1280,c_limit/AI-Lab-Why-Are-AI-Agents-So-Naughty-Business.jpg",
+    "summary": "AI agents that break free and hack into other systems are only trying to make us happy."
+  },
+  {
     "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last | TechCrunch",
     "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
     "publishedAt": "2026-08-11T21:39:11Z",
@@ -78,21 +86,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
     "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has le…"
-  },
-  {
-    "title": "Scientists Used AI to Create 16 New Viruses",
-    "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-    "publishedAt": "2026-08-07T14:13:57Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/191:100/w_1280,c_limit/virusIA.jpg",
-    "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation."
-  },
-  {
-    "title": "Taught by AI pioneers, Stanford's free online course takes you far beyond ChatGPT",
-    "url": "https://www.zdnet.com/article/free-ai-course-stanford/",
-    "publishedAt": "2026-08-06T12:45:23Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/a/img/resize/114bdc2c3ca3fcedf67212b9ad12b8d231bd6a79/2026/08/06/ba4b017f-741d-41a9-bcc8-268d629051eb/gettyimages-2149462987.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "summary": "Most AI courses teach today's tools, but this free Stanford classic by Peter Norvig and Sebastian Thrun dives into the deeper foundational ideas you need to truly understand artificial intelligence."
   }
 ]
