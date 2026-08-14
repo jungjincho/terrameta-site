@@ -1,5 +1,13 @@
 [
   {
+    "title": "The White House Is Going to Expand Its AI Policy",
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "publishedAt": "2026-08-12T21:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a7bbf68f5d2df0bb3e19f91/191:100/w_1280,c_limit/politics_white_house_ai_policy.jpg",
+    "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate."
+  },
+  {
     "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
     "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
     "publishedAt": "2026-08-12T18:45:00Z",
@@ -78,13 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
     "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
-  },
-  {
-    "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
-    "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-    "publishedAt": "2026-08-07T18:15:39Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-    "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has le…"
   }
 ]
