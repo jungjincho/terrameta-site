@@ -1,5 +1,13 @@
 [
   {
+    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "publishedAt": "2026-08-15T09:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a7f62de9dba743672684be2/191:100/w_1280,c_limit/GettyImages-1305224058-edited.jpg",
+    "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place."
+  },
+  {
     "title": "The Real Reason Data Center Gas Power Plants Are So Dirty",
     "url": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
     "publishedAt": "2026-08-14T09:00:00Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg",
     "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content."
-  },
-  {
-    "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire | TechCrunch",
-    "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-    "publishedAt": "2026-08-09T16:10:56Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas.jpg?resize=1200,676",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
   }
 ]
