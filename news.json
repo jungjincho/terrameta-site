@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ | TechCrunch",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "publishedAt": "2026-08-16T16:55:34Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+  },
+  {
     "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
     "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
     "publishedAt": "2026-08-15T09:00:00Z",
@@ -78,13 +86,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, tit…"
-  },
-  {
-    "title": "The AI Slop Backlash Is Actually Having an Impact",
-    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "publishedAt": "2026-08-10T11:30:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a75d22732e80faf510b2a15/191:100/w_1280,c_limit/AI%20Slop.jpg",
-    "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content."
   }
 ]
