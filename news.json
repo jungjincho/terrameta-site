@@ -1,5 +1,13 @@
 [
   {
+    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "publishedAt": "2026-08-19T16:44:07Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a85ca54d0110f6d404e46bf/191:100/w_1280,c_limit/081926_AI-Watermark-Removal.jpg",
+    "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online."
+  },
+  {
     "title": "The 6 AI-free Linux distros I recommend most - and why they're likely to stay that way",
     "url": "https://www.zdnet.com/article/top-6-ai-free-linux-distros/",
     "publishedAt": "2026-08-19T08:01:05Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a75bce7b453ac64d9534f56/191:100/w_1280,c_limit/Tom%20Adams%20in%20Greenhouse%20with%20Blackberry.jpg",
     "summary": "Startups and Big Ag are using Crispr gene editing to create crops that taste better and grow on a hotter planet. But will they find a market?"
-  },
-  {
-    "title": "Mark Zuckerberg doesn’t understand how to live",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-    "publishedAt": "2026-08-10T21:54:46Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mGK9aQV9PSH0sYLdbPT57YrtzOZ75R-5y41nH9iZqB0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped wa…"
   }
 ]
