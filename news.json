@@ -1,5 +1,13 @@
 [
   {
+    "title": "The 6 AI-free Linux distros I recommend most - and why they're likely to stay that way",
+    "url": "https://www.zdnet.com/article/top-6-ai-free-linux-distros/",
+    "publishedAt": "2026-08-19T08:01:05Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/a/img/resize/b144e7edabc78b72a591875ee5f9765d97e7bccb/2026/08/18/8ec382d2-2813-4bee-9bf1-267f875baa75/noai.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "summary": "If AI isn't your jam, and you're looking for an operating system that doesn't (and won't) force it on you, look no further than these Linux distributions."
+  },
+  {
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ | TechCrunch",
     "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
     "publishedAt": "2026-08-16T16:55:34Z",
@@ -78,13 +86,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mGK9aQV9PSH0sYLdbPT57YrtzOZ75R-5y41nH9iZqB0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped wa…"
-  },
-  {
-    "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-    "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-    "publishedAt": "2026-08-10T15:19:05Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, tit…"
   }
 ]
