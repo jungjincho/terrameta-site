@@ -1,5 +1,13 @@
 [
   {
+    "title": "Silicon Valley Doesn't Get Why You Hate AI",
+    "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "publishedAt": "2026-08-20T18:49:07Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg",
+    "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it."
+  },
+  {
     "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
     "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
     "publishedAt": "2026-08-20T13:59:12Z",
@@ -78,13 +86,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/a/img/resize/27f6204f5740206220039830174cd1f04c3f7259/2026/08/11/15635ea2-5a39-404a-9c0d-5e5b17c1fbd7/softwarefactorygettyimages-1421511848.jpg?auto=webp&fit=crop&height=675&width=1200",
     "summary": "Imagine submitting your vibe-coded app to a service that validates, tests, and then mass-produces it in a repeatable, automated fashion for delivery to a wide audience."
-  },
-  {
-    "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
-    "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
-    "publishedAt": "2026-08-11T13:45:02Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a7a2036c58ed7121c9fbad3/191:100/w_1280,c_limit/AIEmission.jpg",
-    "summary": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent—vastly outpacing the impact of data centers."
   }
 ]
