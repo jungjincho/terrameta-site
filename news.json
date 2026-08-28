@@ -1,5 +1,13 @@
 [
   {
+    "title": "How AI-armed script kiddies will soon wield the power of state-sponsored threat actors",
+    "url": "https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/",
+    "publishedAt": "2026-08-27T16:02:07Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/a/img/resize/bbfaac58daeb1ef8fd5e554d4a46f4d8798bdf57/2026/08/27/a04ae3e2-7149-473c-b6a7-067e8b72ee87/glowing-keyboardgettyimages-2210577818.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "summary": "Low-skill hacktivists are now 'enabled with the same tooling and sophistication as a state-sponsored group,' according to cybersecurity consultant Unit 42."
+  },
+  {
     "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them | TechCrunch",
     "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
     "publishedAt": "2026-08-26T11:02:55Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a7e65723fe13c1d3993e0db/191:100/w_1280,c_limit/Real-Reason-Data-Center-Gas-Power-Plants-Are-So-Dirty-Science-2280775684.jpg",
     "summary": "A massive new gas plant in Texas will be built with much less efficient technology than regular gas plants. It’s far from the only data center power project to rely on dirty turbines."
-  },
-  {
-    "title": "The White House Is Going to Expand Its AI Policy",
-    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-    "publishedAt": "2026-08-12T21:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a7bbf68f5d2df0bb3e19f91/191:100/w_1280,c_limit/politics_white_house_ai_policy.jpg",
-    "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate."
   }
 ]
