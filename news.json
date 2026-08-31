@@ -1,5 +1,13 @@
 [
   {
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining | TechCrunch",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "publishedAt": "2026-08-30T15:00:00Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+  },
+  {
     "title": "How AI-armed script kiddies will soon wield the power of state-sponsored threat actors",
     "url": "https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/",
     "publishedAt": "2026-08-27T16:02:07Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a7f62de9dba743672684be2/191:100/w_1280,c_limit/GettyImages-1305224058-edited.jpg",
     "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place."
-  },
-  {
-    "title": "The Real Reason Data Center Gas Power Plants Are So Dirty",
-    "url": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
-    "publishedAt": "2026-08-14T09:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a7e65723fe13c1d3993e0db/191:100/w_1280,c_limit/Real-Reason-Data-Center-Gas-Power-Plants-Are-So-Dirty-Science-2280775684.jpg",
-    "summary": "A massive new gas plant in Texas will be built with much less efficient technology than regular gas plants. It’s far from the only data center power project to rely on dirty turbines."
   }
 ]
