@@ -1,5 +1,13 @@
 [
   {
+    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "publishedAt": "2026-09-02T18:41:02Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/191:100/w_1280,c_limit/GettyImages-2214107176.jpg",
+    "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use."
+  },
+  {
     "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments | TechCrunch",
     "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
     "publishedAt": "2026-09-02T15:05:46Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg",
     "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it."
-  },
-  {
-    "title": "Waymo lifts the lid on the ‘brain’ powering its robotaxis",
-    "url": "https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers",
-    "publishedAt": "2026-08-20T13:59:12Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "What's in the trunk of your car? Shopping bags? A spare tire? Jumper cables? What about a high-powered computer capable of performing up to one quadrillion operations a second? Only if you're Waymo. For the first time, Waymo revealed key details about the hea…"
   }
 ]
