@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google needs Hollywood more than the studios need AI",
+    "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "publishedAt": "2026-09-01T22:50:29Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&strip=all&crop=0%2C12.885618424569%2C100%2C74.228763150863&w=1200",
+    "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be…"
+  },
+  {
     "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
     "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
     "publishedAt": "2026-08-31T10:30:00Z",
@@ -86,13 +94,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/a/img/resize/b144e7edabc78b72a591875ee5f9765d97e7bccb/2026/08/18/8ec382d2-2813-4bee-9bf1-267f875baa75/noai.jpg?auto=webp&fit=crop&height=675&width=1200",
     "summary": "If AI isn't your jam, and you're looking for an operating system that doesn't (and won't) force it on you, look no further than these Linux distributions."
-  },
-  {
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ | TechCrunch",
-    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "publishedAt": "2026-08-16T16:55:34Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
   }
 ]
