@@ -1,5 +1,13 @@
 [
   {
+    "title": "Robotaxis enter their villain era",
+    "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+    "publishedAt": "2026-09-04T14:49:57Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something …"
+  },
+  {
     "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
     "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
     "publishedAt": "2026-09-03T18:06:24Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a84e66df285f2dc95adad96/191:100/w_1280,c_limit/Recruiters-Want-It-To-Be-Harder-To-Apply-For-a-Job-Business.jpg",
     "summary": "Thanks to a dwindling supply of open roles, “one-click” applications, and the rise of artificial intelligence, it’s easier than ever to apply for a job. We’re all paying the price."
-  },
-  {
-    "title": "The cat-and-mouse game over 3D-printed guns has begun",
-    "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-    "publishedAt": "2026-08-24T19:46:47Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying …"
   }
 ]
