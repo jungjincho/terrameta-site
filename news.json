@@ -1,5 +1,21 @@
 [
   {
+    "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
+    "url": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
+    "publishedAt": "2026-09-09T19:07:42Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6aa198d7d1fc0df81e302b2e/191:100/w_1280,c_limit/Business_UK%20Lawmakers%20Are%20Scrambling%20In%20Response%20To%20AI%E2%80%99s%20Summer%20of%20Chaos_v1.jpg",
+    "summary": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence."
+  },
+  {
+    "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+    "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+    "publishedAt": "2026-09-09T18:30:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6aa092c74e574542e273c50f/191:100/w_1280,c_limit/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg",
+    "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure."
+  },
+  {
     "title": "'Gambling with our lives': Anthropic researcher quits, warns against self-improving AI  | TechCrunch",
     "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
     "publishedAt": "2026-09-09T15:02:47Z",
@@ -78,21 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
     "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
-  },
-  {
-    "title": "How AI-armed script kiddies will soon wield the power of state-sponsored threat actors",
-    "url": "https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/",
-    "publishedAt": "2026-08-27T16:02:07Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/a/img/resize/bbfaac58daeb1ef8fd5e554d4a46f4d8798bdf57/2026/08/27/a04ae3e2-7149-473c-b6a7-067e8b72ee87/glowing-keyboardgettyimages-2210577818.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "summary": "Low-skill hacktivists are now 'enabled with the same tooling and sophistication as a state-sponsored group,' according to cybersecurity consultant Unit 42."
-  },
-  {
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them | TechCrunch",
-    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "publishedAt": "2026-08-26T11:02:55Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
-    "summary": "Runable hits $21M to bet AI agents can go from building businesses to growing them | TechCrunchtechcrunch.com"
   }
 ]
