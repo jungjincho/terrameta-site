@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic CEO outlines plan to ‘pace the frontier’ | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "publishedAt": "2026-09-12T16:00:57Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+    "summary": "Anthropic CEO outlines plan to ‘pace the frontier’ | TechCrunchtechcrunch.com"
+  },
+  {
     "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
     "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
     "publishedAt": "2026-09-12T10:00:00Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/191:100/w_1280,c_limit/GettyImages-2214107176.jpg",
     "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use."
-  },
-  {
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "publishedAt": "2026-09-02T15:05:46Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900",
-    "summary": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others."
   }
 ]
