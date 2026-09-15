@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+    "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "publishedAt": "2026-09-14T11:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6aa7c567181b95a3e876f8f9/191:100/w_1280,c_limit/091426-Trump%20AI%20Leaders.jpg",
+    "summary": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China."
+  },
+  {
     "title": "Anthropic CEO outlines plan to ‘pace the frontier’ | TechCrunch",
     "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "publishedAt": "2026-09-12T16:00:57Z",
@@ -78,13 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/2-Figure-How-WeatherNext-3-works.png?resize=1200,675",
     "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing"
-  },
-  {
-    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-    "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-    "publishedAt": "2026-09-02T18:41:02Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/191:100/w_1280,c_limit/GettyImages-2214107176.jpg",
-    "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use."
   }
 ]
