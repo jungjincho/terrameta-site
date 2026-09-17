@@ -1,5 +1,13 @@
 [
   {
+    "title": "A brief history of AI executives calling for regulation",
+    "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+    "publishedAt": "2026-09-16T11:14:55Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demi…"
+  },
+  {
     "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
     "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
     "publishedAt": "2026-09-15T18:00:09Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6aa198d7d1fc0df81e302b2e/191:100/w_1280,c_limit/Business_UK%20Lawmakers%20Are%20Scrambling%20In%20Response%20To%20AI%E2%80%99s%20Summer%20of%20Chaos_v1.jpg",
     "summary": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence."
-  },
-  {
-    "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-    "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-    "publishedAt": "2026-09-09T18:30:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aa092c74e574542e273c50f/191:100/w_1280,c_limit/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg",
-    "summary": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure."
   }
 ]
