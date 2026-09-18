@@ -1,5 +1,21 @@
 [
   {
+    "title": "The AI Slowdown Debate Crashed Salesforce's Party",
+    "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+    "publishedAt": "2026-09-17T18:42:25Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6aab113b6146f3a3b3e310bc/191:100/w_1280,c_limit/Model-Behavior-Year-Dreamforce-Was-Overtaken-by--Debate-Over-Existential-AI-Fears-Business.jpg",
+    "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down."
+  },
+  {
+    "title": "Even the King of England has his hesitations about AI | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+    "publishedAt": "2026-09-17T17:28:55Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/JONATHAN-BRADY.jpg?w=1024",
+    "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and UK government."
+  },
+  {
     "title": "Inside the suddenly explosive world of AI safety",
     "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
     "publishedAt": "2026-09-17T11:30:17Z",
@@ -78,13 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
     "summary": "India's Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-    "publishedAt": "2026-09-10T14:04:46Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-    "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery."
   }
 ]
