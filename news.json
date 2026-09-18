@@ -1,5 +1,13 @@
 [
   {
+    "title": "Inside the suddenly explosive world of AI safety",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+    "publishedAt": "2026-09-17T11:30:17Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268747_AI_safety_RJIANG3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI indus…"
+  },
+  {
     "title": "A brief history of AI executives calling for regulation",
     "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
     "publishedAt": "2026-09-16T11:14:55Z",
@@ -78,13 +86,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
     "summary": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery."
-  },
-  {
-    "title": "UK Lawmakers Are Freaking Out Over AI’s Summer of Chaos",
-    "url": "https://www.wired.com/story/uk-lawmakers-are-scrambling-in-response-to-ai-summer-of-chaos/",
-    "publishedAt": "2026-09-09T19:07:42Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aa198d7d1fc0df81e302b2e/191:100/w_1280,c_limit/Business_UK%20Lawmakers%20Are%20Scrambling%20In%20Response%20To%20AI%E2%80%99s%20Summer%20of%20Chaos_v1.jpg",
-    "summary": "As AI agents go rogue and fears of superintelligence grow, politicians are raising the alarm over its potential harm to human existence."
   }
 ]
