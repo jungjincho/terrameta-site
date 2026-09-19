@@ -1,5 +1,13 @@
 [
   {
+    "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
+    "url": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
+    "publishedAt": "2026-09-18T15:09:13Z",
+    "source": "ZDNet",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2234634913.jpg",
+    "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a significant readiness gap."
+  },
+  {
     "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
     "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
     "publishedAt": "2026-09-18T09:15:00Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6aa7c567181b95a3e876f8f9/191:100/w_1280,c_limit/091426-Trump%20AI%20Leaders.jpg",
     "summary": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China."
-  },
-  {
-    "title": "Anthropic CEO outlines plan to ‘pace the frontier’ | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "publishedAt": "2026-09-12T16:00:57Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-    "summary": "Anthropic CEO outlines plan to ‘pace the frontier’ | TechCrunchtechcrunch.com"
   }
 ]
