@@ -1,5 +1,21 @@
 [
   {
+    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+    "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+    "publishedAt": "2026-09-18T09:15:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg",
+    "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom."
+  },
+  {
+    "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+    "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+    "publishedAt": "2026-09-18T09:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg",
+    "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low."
+  },
+  {
     "title": "The AI Slowdown Debate Crashed Salesforce's Party",
     "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
     "publishedAt": "2026-09-17T18:42:25Z",
@@ -78,21 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
     "summary": "Anthropic CEO outlines plan to ‘pace the frontier’ | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-    "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-    "publishedAt": "2026-09-12T10:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg",
-    "summary": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work."
-  },
-  {
-    "title": "India's Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "publishedAt": "2026-09-10T18:28:53Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
-    "summary": "India's Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content | TechCrunchtechcrunch.com"
   }
 ]
