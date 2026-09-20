@@ -1,5 +1,21 @@
 [
   {
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "publishedAt": "2026-09-19T20:28:15Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of …"
+  },
+  {
+    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "publishedAt": "2026-09-19T19:59:48Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+    "summary": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force | TechCrunchtechcrunch.com"
+  },
+  {
     "title": "Anthropic's first embedded evaluator is ... Accenture? | TechCrunch",
     "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
     "publishedAt": "2026-09-18T21:44:33Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6aa82ac8fdb837b60d8caff1/191:100/w_1280,c_limit/I-Tried-to-Gaslight-AI-Actor-Tilly-Norwood-Culture-Talking-Tilly-launch-1-September-2026.jpg",
     "summary": "The virtual character, which is promoting its upcoming movie  “Misaligned,” tries to evade politics by repetitively commenting on the clothes you’re wearing."
-  },
-  {
-    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "publishedAt": "2026-09-14T22:59:41Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declare…"
-  },
-  {
-    "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-    "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-    "publishedAt": "2026-09-14T16:50:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aa81a44054ce52476eda4d7/191:100/w_1280,c_limit/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg",
-    "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims."
   }
 ]
