@@ -1,5 +1,13 @@
 [
   {
+    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "publishedAt": "2026-09-21T10:34:43Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/191:100/w_1280,c_limit/092126-Bensen%20China.jpg",
+    "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security."
+  },
+  {
     "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
     "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
     "publishedAt": "2026-09-19T20:28:15Z",
@@ -86,13 +94,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
     "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demi…"
-  },
-  {
-    "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-    "publishedAt": "2026-09-15T18:00:09Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aa82ac8fdb837b60d8caff1/191:100/w_1280,c_limit/I-Tried-to-Gaslight-AI-Actor-Tilly-Norwood-Culture-Talking-Tilly-launch-1-September-2026.jpg",
-    "summary": "The virtual character, which is promoting its upcoming movie  “Misaligned,” tries to evade politics by repetitively commenting on the clothes you’re wearing."
   }
 ]
