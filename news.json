@@ -1,5 +1,37 @@
 [
   {
+    "title": "Trump says US is officially renaming AI ‘super intelligence’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "publishedAt": "2026-09-22T16:07:17Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Why? Because, accordin…"
+  },
+  {
+    "title": "Five AI safety sessions every founder should have on their Disrupt 2026 agenda | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "publishedAt": "2026-09-22T15:00:00Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25."
+  },
+  {
+    "title": "Everyone can find a reason to dislike data center construction | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "publishedAt": "2026-09-22T13:00:00Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-496672575.jpg?resize=1200,800",
+    "summary": "Everyone can find a reason to dislike data center construction | TechCrunchtechcrunch.com"
+  },
+  {
+    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+    "publishedAt": "2026-09-22T13:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6ab1a45eebc16c4398b1d95b/191:100/w_1280,c_limit/AI-Models-Built-From-Rat-Brains-Business-MEA-neuron-chip-3.jpg",
+    "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code."
+  },
+  {
     "title": "Can you forget how you feel about Meta?",
     "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
     "publishedAt": "2026-09-22T10:00:01Z",
@@ -62,37 +94,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2234634913.jpg",
     "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a significant readiness gap."
-  },
-  {
-    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-    "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-    "publishedAt": "2026-09-18T09:15:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg",
-    "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom."
-  },
-  {
-    "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-    "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-    "publishedAt": "2026-09-18T09:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg",
-    "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low."
-  },
-  {
-    "title": "The AI Slowdown Debate Crashed Salesforce's Party",
-    "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-    "publishedAt": "2026-09-17T18:42:25Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aab113b6146f3a3b3e310bc/191:100/w_1280,c_limit/Model-Behavior-Year-Dreamforce-Was-Overtaken-by--Debate-Over-Existential-AI-Fears-Business.jpg",
-    "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down."
-  },
-  {
-    "title": "Even the King of England has his hesitations about AI | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-    "publishedAt": "2026-09-17T17:28:55Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/JONATHAN-BRADY.jpg?w=1024",
-    "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and UK government."
   }
 ]
