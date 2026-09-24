@@ -1,5 +1,13 @@
 [
   {
+    "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
+    "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
+    "publishedAt": "2026-09-23T10:15:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6aa145e274a1099024c35a52/191:100/w_1280,c_limit/AT&T-Workforce-Shrink.jpg",
+    "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation."
+  },
+  {
     "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
     "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
     "publishedAt": "2026-09-23T00:18:27Z",
@@ -24,20 +32,20 @@
     "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25."
   },
   {
-    "title": "Everyone can find a reason to dislike data center construction | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "publishedAt": "2026-09-22T13:00:00Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-496672575.jpg?resize=1200,800",
-    "summary": "Everyone can find a reason to dislike data center construction | TechCrunchtechcrunch.com"
-  },
-  {
     "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
     "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
     "publishedAt": "2026-09-22T13:00:00Z",
     "source": "Wired",
     "image": "https://media.wired.com/photos/6ab1a45eebc16c4398b1d95b/191:100/w_1280,c_limit/AI-Models-Built-From-Rat-Brains-Business-MEA-neuron-chip-3.jpg",
     "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code."
+  },
+  {
+    "title": "Everyone can find a reason to dislike data center construction | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "publishedAt": "2026-09-22T13:00:00Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-496672575.jpg?resize=1200,800",
+    "summary": "Everyone can find a reason to dislike data center construction | TechCrunchtechcrunch.com"
   },
   {
     "title": "Can you forget how you feel about Meta?",
@@ -86,13 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
     "summary": "Anthropic's first embedded evaluator is ... Accenture? | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "What Hollywood thinks about existential AI warnings",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-    "publishedAt": "2026-09-18T16:35:19Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st…"
   }
 ]
