@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "publishedAt": "2026-09-23T00:18:27Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0%2C10.735367145048%2C100%2C78.529265709904&w=1200",
+    "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians t…"
+  },
+  {
     "title": "Trump says US is officially renaming AI ‘super intelligence’",
     "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
     "publishedAt": "2026-09-22T16:07:17Z",
@@ -86,13 +94,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have st…"
-  },
-  {
-    "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
-    "url": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
-    "publishedAt": "2026-09-18T15:09:13Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2234634913.jpg",
-    "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a significant readiness gap."
   }
 ]
