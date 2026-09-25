@@ -1,5 +1,13 @@
 [
   {
+    "title": "I Think I Found an AI Agent Worth the Risk",
+    "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+    "publishedAt": "2026-09-24T19:36:35Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6ab4547c6d288ac352d9673f/191:100/w_1280,c_limit/Model-Behavior-AI-Worth-the-Risk-Business.jpg",
+    "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare."
+  },
+  {
     "title": "Shield AI, Waabi, and General Motors talk AI at Disrupt 2026 | TechCrunch",
     "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
     "publishedAt": "2026-09-24T15:03:59Z",
@@ -86,13 +94,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268630_META_FALLING_APART_CVIRGINA0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that mi…"
-  },
-  {
-    "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-    "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-    "publishedAt": "2026-09-22T09:30:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg",
-    "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments."
   }
 ]
