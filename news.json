@@ -1,5 +1,21 @@
 [
   {
+    "title": "Shield AI, Waabi, and General Motors talk AI at Disrupt 2026 | TechCrunch",
+    "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+    "publishedAt": "2026-09-24T15:03:59Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?resize=1200,675",
+    "summary": "Leaders from Waabi, Shield AI, and General Motors join Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25."
+  },
+  {
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+    "publishedAt": "2026-09-24T11:52:32Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296796582.jpg?quality=90&strip=all&crop=0%2C10.737549694392%2C100%2C78.524900611216&w=1200",
+    "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website…"
+  },
+  {
     "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
     "url": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
     "publishedAt": "2026-09-23T18:03:00Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6aad9b0ab031c4554cdc7e0b/191:100/w_1280,c_limit/Company-Wants-to-USe-AI-Translate-Ancient-Greek-Business.jpg",
     "summary": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments."
-  },
-  {
-    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-    "publishedAt": "2026-09-21T10:34:43Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6ab0fffcca426ab5b46ef4b4/191:100/w_1280,c_limit/092126-Bensen%20China.jpg",
-    "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security."
-  },
-  {
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "publishedAt": "2026-09-19T20:28:15Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of …"
   }
 ]
