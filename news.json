@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+    "publishedAt": "2026-09-28T16:56:26Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…"
+  },
+  {
     "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
     "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
     "publishedAt": "2026-09-28T11:32:19Z",
@@ -86,13 +94,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
     "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Why? Because, accordin…"
-  },
-  {
-    "title": "Five AI safety sessions every founder should have on their Disrupt 2026 agenda | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "publishedAt": "2026-09-22T15:00:00Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25."
   }
 ]
