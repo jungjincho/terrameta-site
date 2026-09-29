@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "publishedAt": "2026-09-28T11:32:19Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/191:100/w_1280,c_limit/092826-OpenAi%20Whitehouse%20Hack.jpg",
+    "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt."
+  },
+  {
+    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "publishedAt": "2026-09-28T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/191:100/w_1280,c_limit/092526-AI%20Coworker.jpg",
+    "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions."
+  },
+  {
     "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
     "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
     "publishedAt": "2026-09-25T22:13:20Z",
@@ -78,21 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
     "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25."
-  },
-  {
-    "title": "Everyone can find a reason to dislike data center construction | TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-    "publishedAt": "2026-09-22T13:00:00Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-496672575.jpg?resize=1200,800",
-    "summary": "Everyone can find a reason to dislike data center construction | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
-    "publishedAt": "2026-09-22T13:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6ab1a45eebc16c4398b1d95b/191:100/w_1280,c_limit/AI-Models-Built-From-Rat-Brains-Business-MEA-neuron-chip-3.jpg",
-    "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code."
   }
 ]
