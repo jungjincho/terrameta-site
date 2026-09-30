@@ -1,5 +1,29 @@
 [
   {
+    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+    "publishedAt": "2026-09-29T12:00:13Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292801324.jpg?quality=90&strip=all&crop=0%2C10.729583668295%2C100%2C78.54083266341&w=1200",
+    "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a lo…"
+  },
+  {
+    "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+    "publishedAt": "2026-09-29T11:48:27Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our mode…"
+  },
+  {
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "publishedAt": "2026-09-29T10:36:22Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/191:100/w_1280,c_limit/092926-OpenAI%20Scrap.jpg",
+    "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website."
+  },
+  {
     "title": "OpenAI keeps bulldozing mathematicians",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
     "publishedAt": "2026-09-28T16:56:26Z",
@@ -70,29 +94,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including…"
-  },
-  {
-    "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-    "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-    "publishedAt": "2026-09-23T10:15:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aa145e274a1099024c35a52/191:100/w_1280,c_limit/AT&T-Workforce-Shrink.jpg",
-    "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation."
-  },
-  {
-    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-    "publishedAt": "2026-09-23T00:18:27Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0%2C10.735367145048%2C100%2C78.529265709904&w=1200",
-    "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians t…"
-  },
-  {
-    "title": "Trump says US is officially renaming AI ‘super intelligence’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-    "publishedAt": "2026-09-22T16:07:17Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_1949029.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Why? Because, accordin…"
   }
 ]
