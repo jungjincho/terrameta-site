@@ -1,5 +1,13 @@
 [
   {
+    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+    "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "publishedAt": "2026-10-02T15:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/191:100/w_1280,c_limit/Backchannel-Trump-AI-Business-2297413584.jpg",
+    "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term."
+  },
+  {
     "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
     "url": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
     "publishedAt": "2026-10-01T09:00:14Z",
@@ -70,13 +78,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…"
-  },
-  {
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-    "publishedAt": "2026-09-28T11:32:19Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aba376a2b66b9dd652c1c6c/191:100/w_1280,c_limit/092826-OpenAi%20Whitehouse%20Hack.jpg",
-    "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt."
   }
 ]
