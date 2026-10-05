@@ -1,5 +1,13 @@
 [
   {
+    "title": "Our minds aren’t equipped to handle AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "publishedAt": "2026-10-04T13:43:53Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brai…"
+  },
+  {
     "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
     "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
     "publishedAt": "2026-10-02T15:00:00Z",
@@ -70,13 +78,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/191:100/w_1280,c_limit/092926-OpenAI%20Scrap.jpg",
     "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website."
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-    "publishedAt": "2026-09-28T16:56:26Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope…"
   }
 ]
