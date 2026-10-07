@@ -1,5 +1,21 @@
 [
   {
+    "title": "LibreOffice says 'no AI' is now a software feature | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "publishedAt": "2026-10-06T16:03:55Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+    "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
+  },
+  {
+    "title": "The full Disrupt 2026 breakout session agenda revealed | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "publishedAt": "2026-10-06T14:04:47Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_ee9b8a.png?w=1200",
+    "summary": "The full Q&A breakout session at TechCrunch Disrupt 2026, happening October 13-15 in San Francisco. Register now to join and save up to $100."
+  },
+  {
     "title": "Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with high benchmarks planned for open weights release",
     "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
     "publishedAt": "2026-10-06T13:00:35Z",
@@ -62,21 +78,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
     "summary": "Pledge signed by President Trump and top AI leaders misspells the United States | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-    "publishedAt": "2026-09-30T12:24:32Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-    "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment On Fronti…"
-  },
-  {
-    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-    "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-    "publishedAt": "2026-09-29T19:05:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6abbb935c1a080d8e4e23844/191:100/w_1280,c_limit/GettyImages-2265991617.jpg",
-    "summary": "A nonprofit in California is doing what Hugging Face has not, and attempting to hold OpenAI legally accountable for the actions of its agents."
   }
 ]
