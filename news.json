@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+    "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+    "publishedAt": "2026-10-08T09:30:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6ac02e534880260b81233f30/191:100/w_1280,c_limit/Tristan-Harris-2274181207.jpg",
+    "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED."
+  },
+  {
     "title": "A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers",
     "url": "https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/",
     "publishedAt": "2026-10-07T10:30:00Z",
@@ -70,13 +78,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2219096918.jpg",
     "summary": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?"
-  },
-  {
-    "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-    "publishedAt": "2026-09-30T17:15:49Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0%2C10.728009376723%2C100%2C78.543981246555&w=1200",
-    "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" coo…"
   }
 ]
