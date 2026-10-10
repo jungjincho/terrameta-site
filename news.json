@@ -1,5 +1,13 @@
 [
   {
+    "title": "Even ‘Law & Order’ Is Terrified of AI",
+    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "publishedAt": "2026-10-09T10:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6ac6842a2962a868125e6095/191:100/w_1280,c_limit/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg",
+    "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs."
+  },
+  {
     "title": "Artificial is a wicked satire that also sticks to the facts",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
     "publishedAt": "2026-10-08T13:57:31Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/191:100/w_1280,c_limit/Backchannel-Trump-AI-Business-2297413584.jpg",
     "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term."
-  },
-  {
-    "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
-    "url": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
-    "publishedAt": "2026-10-01T09:00:14Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2219096918.jpg",
-    "summary": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?"
   }
 ]
