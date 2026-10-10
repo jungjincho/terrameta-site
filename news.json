@@ -1,5 +1,37 @@
 [
   {
+    "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "publishedAt": "2026-10-09T19:11:12Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results Open…"
+  },
+  {
+    "title": "We can't help treating AI like it's human. But should we? | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "publishedAt": "2026-10-09T16:40:14Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
+  },
+  {
+    "title": "Remember Orkut? Its founder wants to bring it back | TechCrunch",
+    "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+    "publishedAt": "2026-10-09T16:27:33Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/orkut.jpg?resize=1200,800",
+    "summary": "Remember Orkut? Its founder wants to bring it back | TechCrunchtechcrunch.com"
+  },
+  {
+    "title": "Trump’s attempt to rename AI is looking awfully artificial",
+    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+    "publishedAt": "2026-10-09T14:25:43Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0%2C10.728009376723%2C100%2C78.543981246555&w=1200",
+    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogato…"
+  },
+  {
     "title": "Even ‘Law & Order’ Is Terrified of AI",
     "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
     "publishedAt": "2026-10-09T10:00:00Z",
@@ -62,29 +94,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about ho…"
-  },
-  {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem? | TechCrunch",
-    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "publishedAt": "2026-10-04T20:09:25Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-    "summary": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem? | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "Our minds aren’t equipped to handle AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-    "publishedAt": "2026-10-04T13:43:53Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brai…"
-  },
-  {
-    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-    "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-    "publishedAt": "2026-10-02T15:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/191:100/w_1280,c_limit/Backchannel-Trump-AI-Business-2297413584.jpg",
-    "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term."
   }
 ]
