@@ -1,5 +1,13 @@
 [
   {
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "publishedAt": "2026-10-11T18:33:56Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most p…"
+  },
+  {
     "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
     "publishedAt": "2026-10-09T19:11:12Z",
@@ -86,13 +94,5 @@
     "source": "VentureBeat",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/66k13bXihwqnJmfL1lzUo3/83fe7bbda6eb1f045f55cf6aaf064ea6/Triumphant_Cat_atop_the_Eiffel_Tower.png?w=800&q=75",
     "summary": "Mistral executives said the Le Chonk name deliberately nods to the community that had been rooting for the company to build a massive frontier model."
-  },
-  {
-    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-    "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-    "publishedAt": "2026-10-05T14:05:42Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about ho…"
   }
 ]
