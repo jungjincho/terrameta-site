@@ -1,5 +1,13 @@
 [
   {
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "publishedAt": "2026-10-16T20:05:08Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg",
+    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there."
+  },
+  {
     "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
     "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
     "publishedAt": "2026-10-16T15:00:00Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6abd22d799edf0dddca3a314/191:100/w_1280,c_limit/Politics_Elon%20Musk%E2%80%99s%20Top%20Lawyer%20Is%20Stocking%20the%20Government%20with%20Employees%20from%20a%20Shadowy%20Nonprofit_v2.jpg",
     "summary": "The National Design Studio has been something of a successor agency to DOGE. A WIRED investigation finds some of its members are on loan from a nonprofit run by SpaceXAI’s general counsel."
-  },
-  {
-    "title": "LibreOffice says 'no AI' is now a software feature | TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-    "publishedAt": "2026-10-06T16:03:55Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-    "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
   }
 ]
