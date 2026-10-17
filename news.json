@@ -1,5 +1,13 @@
 [
   {
+    "title": "The tech backlash is now in theaters",
+    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "publishedAt": "2026-10-15T21:39:52Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&strip=all&crop=0%2C15.21666481007%2C100%2C69.56667037986&w=1200",
+    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a rob…"
+  },
+  {
     "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
     "publishedAt": "2026-10-11T18:33:56Z",
@@ -86,13 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_ee9b8a.png?w=1200",
     "summary": "The full Q&A breakout session at TechCrunch Disrupt 2026, happening October 13-15 in San Francisco. Register now to join and save up to $100."
-  },
-  {
-    "title": "Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with high benchmarks planned for open weights release",
-    "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
-    "publishedAt": "2026-10-06T13:00:35Z",
-    "source": "VentureBeat",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/66k13bXihwqnJmfL1lzUo3/83fe7bbda6eb1f045f55cf6aaf064ea6/Triumphant_Cat_atop_the_Eiffel_Tower.png?w=800&q=75",
-    "summary": "Mistral executives said the Le Chonk name deliberately nods to the community that had been rooting for the company to build a massive frontier model."
   }
 ]
