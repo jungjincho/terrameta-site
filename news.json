@@ -1,5 +1,21 @@
 [
   {
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "publishedAt": "2026-10-27T20:51:04Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to Th…"
+  },
+  {
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "publishedAt": "2026-10-27T17:31:36Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0%2C10.721948032455%2C100%2C78.556103935089&w=1200",
+    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it pl…"
+  },
+  {
     "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
     "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
     "publishedAt": "2026-10-26T21:27:15Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg",
     "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there."
-  },
-  {
-    "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-    "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-    "publishedAt": "2026-10-16T15:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6ad14b37762b59cd2aa2c0c9/191:100/w_1280,c_limit/Backchannel-Sherry-Turkle-Business-458911186.jpg",
-    "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots."
-  },
-  {
-    "title": "The tech backlash is now in theaters",
-    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "publishedAt": "2026-10-15T21:39:52Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&strip=all&crop=0%2C15.21666481007%2C100%2C69.56667037986&w=1200",
-    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a rob…"
   }
 ]
