@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "publishedAt": "2026-10-29T14:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/191:100/w_1280,c_limit/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg",
+    "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity."
+  },
+  {
     "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
     "publishedAt": "2026-10-27T20:51:04Z",
@@ -86,13 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
     "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
-  },
-  {
-    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-    "publishedAt": "2026-10-16T20:05:08Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/191:100/w_1280,c_limit/GettyImages-2299989251.jpg",
-    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there."
   }
 ]
