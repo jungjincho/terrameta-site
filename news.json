@@ -1,5 +1,13 @@
 [
   {
+    "title": "Thinking Machines launches Inkling 2 Small with near-frontier performance on enterprise benchmarks",
+    "url": "https://venturebeat.com/technology/thinking-machines-launches-inkling-2-small-with-near-frontier-performance-on-enterprise-benchmarks",
+    "publishedAt": "2026-11-06T23:52:04Z",
+    "source": "VentureBeat",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4UX0EVtbMYt275rhuiZZ0o/dbd38be221c2eaa3f85de45915c4f877/Joyful_Manga_Duo_Above_a_Foggy_City.png?w=800&q=75",
+    "summary": "It achieves a high score of 71.8% on the third-party EnterpriseBench-CoreCraft benchmark from Surge AI, which measures agentic AI performance across a fictional PC parts supplier."
+  },
+  {
     "title": "AI is the new dating dealbreaker",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
     "publishedAt": "2026-11-06T17:03:13Z",
@@ -78,13 +86,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0%2C10.721948032455%2C100%2C78.556103935089&w=1200",
     "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it pl…"
-  },
-  {
-    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-    "publishedAt": "2026-10-26T21:27:15Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6adf8a425d1e509438fb58ec/191:100/w_1280,c_limit/Anthropic3.jpg",
-    "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED."
   }
 ]
