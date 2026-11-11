@@ -1,5 +1,13 @@
 [
   {
+    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "publishedAt": "2026-11-10T00:28:49Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+    "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out…"
+  },
+  {
     "title": "Medium's new TK app brings AI assistance directly into the writing process | TechCrunch",
     "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
     "publishedAt": "2026-11-09T16:12:28Z",
@@ -78,13 +86,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6aebade028f7263543de445a/191:100/w_1280,c_limit/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
     "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs."
-  },
-  {
-    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "publishedAt": "2026-11-01T22:10:45Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
   }
 ]
