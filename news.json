@@ -1,5 +1,13 @@
 [
   {
+    "title": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era | TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "publishedAt": "2026-11-10T14:01:29Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/kora-os.jpg?resize=1200,800",
+    "summary": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era | TechCrunchtechcrunch.com"
+  },
+  {
     "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
     "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
     "publishedAt": "2026-11-10T00:28:49Z",
@@ -78,13 +86,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&strip=all&crop=0%2C12.21468233833%2C100%2C41.841457730372&w=1200",
     "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of …"
-  },
-  {
-    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-    "publishedAt": "2026-11-05T13:00:00Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6aebade028f7263543de445a/191:100/w_1280,c_limit/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg",
-    "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs."
   }
 ]
