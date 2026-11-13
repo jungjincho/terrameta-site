@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+    "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+    "publishedAt": "2026-11-12T18:05:41Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/191:100/w_1280,c_limit/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg",
+    "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize."
+  },
+  {
+    "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+    "publishedAt": "2026-11-12T15:48:12Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The ne…"
+  },
+  {
     "title": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era | TechCrunch",
     "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
     "publishedAt": "2026-11-10T14:01:29Z",
@@ -70,21 +86,5 @@
     "source": "ZDNet",
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/purplepeople-GettyImages-2227030316-1.jpg",
     "summary": "Over 90% of HR professionals say they believe employees can learn AI roles – but half of companies still hire outside for those positions, according to a new report."
-  },
-  {
-    "title": "‘Total repudiation’: The blue wave is about to hit AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-    "publishedAt": "2026-11-05T17:51:52Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American …"
-  },
-  {
-    "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-    "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-    "publishedAt": "2026-11-05T13:31:36Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&strip=all&crop=0%2C12.21468233833%2C100%2C41.841457730372&w=1200",
-    "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of …"
   }
 ]
