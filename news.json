@@ -1,5 +1,21 @@
 [
   {
+    "title": "Congratulations to WIRED’s Class of 2026",
+    "url": "https://www.wired.com/story/wired-yearbook-2026/",
+    "publishedAt": "2026-11-17T11:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6afb9b29276fa364fc4708a8/16:9/w_1920,h_1080,c_limit/SOCIAL_WIRED_FRAMES_TITLE_MOTION.png",
+    "summary": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future."
+  },
+  {
+    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "publishedAt": "2026-11-17T10:47:45Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/16:9/w_1664,h_936,c_limit/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
+    "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions."
+  },
+  {
     "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
     "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
     "publishedAt": "2026-11-14T00:06:40Z",
@@ -78,21 +94,5 @@
     "source": "The Verge",
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to A…"
-  },
-  {
-    "title": "Thinking Machines launches Inkling 2 Small with near-frontier performance on enterprise benchmarks",
-    "url": "https://venturebeat.com/technology/thinking-machines-launches-inkling-2-small-with-near-frontier-performance-on-enterprise-benchmarks",
-    "publishedAt": "2026-11-06T23:52:04Z",
-    "source": "VentureBeat",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4UX0EVtbMYt275rhuiZZ0o/dbd38be221c2eaa3f85de45915c4f877/Joyful_Manga_Duo_Above_a_Foggy_City.png?w=800&q=75",
-    "summary": "It achieves a high score of 71.8% on the third-party EnterpriseBench-CoreCraft benchmark from Surge AI, which measures agentic AI performance across a fictional PC parts supplier."
-  },
-  {
-    "title": "AI is the new dating dealbreaker",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-    "publishedAt": "2026-11-06T17:03:13Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, s…"
   }
 ]
