@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+    "url": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+    "publishedAt": "2026-11-17T18:03:32Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6af7b8ab85c9940326d23123/16:9/w_2400,h_1350,c_limit/Nvidia-Fiasco-Has-Lutnick-Under-the-Gun-Politics-2201139059.jpg",
+    "summary": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy."
+  },
+  {
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it's a game | TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "publishedAt": "2026-11-17T17:22:51Z",
+    "source": "TechCrunch",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1670871943.jpg?resize=1200,675",
+    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+  },
+  {
     "title": "Congratulations to WIRED’s Class of 2026",
     "url": "https://www.wired.com/story/wired-yearbook-2026/",
     "publishedAt": "2026-11-17T11:00:00Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/191:100/w_1280,c_limit/Soft-robot-arm_3.jpeg",
     "summary": "The key to the movement of these flexible robots is the algae’s photosynthetic capabilities."
-  },
-  {
-    "title": "Is your backup power enough for worst-case winter storms? 4 steps to prepare your home - ZDNET",
-    "url": "https://www.zdnet.com/home-and-office/backup-power-home-outages-winter-storms-el-nino/",
-    "publishedAt": "2026-11-07T13:02:56Z",
-    "source": "ZDNet",
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/snowstreet-GettyImages-186815299.jpg",
-    "summary": "A record-strength El Niño could bring more storms and longer outages. Here’s how to figure out what your home needs and choose your best backup power option."
-  },
-  {
-    "title": "AI broke the cybersecurity world. What’s next?",
-    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-    "publishedAt": "2026-11-07T05:43:11Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to A…"
   }
 ]
