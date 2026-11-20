@@ -1,5 +1,21 @@
 [
   {
+    "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+    "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+    "publishedAt": "2026-11-19T13:55:56Z",
+    "source": "The Verge",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Jon-Favreau.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+    "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election …"
+  },
+  {
+    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "publishedAt": "2026-11-19T12:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/16:9/w_2496,h_1404,c_limit/Anthropic-IPO-Business-2297744238.jpg",
+    "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth."
+  },
+  {
     "title": "Sam Altman says his life is so weird that he's unfazed by Andrew Garfield portraying him in upcoming movie",
     "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
     "publishedAt": "2026-11-18T20:07:01Z",
@@ -78,21 +94,5 @@
     "source": "TechCrunch",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/kora-os.jpg?resize=1200,800",
     "summary": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era | TechCrunchtechcrunch.com"
-  },
-  {
-    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-    "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-    "publishedAt": "2026-11-10T00:28:49Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-    "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out…"
-  },
-  {
-    "title": "Medium's new TK app brings AI assistance directly into the writing process | TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "publishedAt": "2026-11-09T16:12:28Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675",
-    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
   }
 ]
