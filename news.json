@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+    "publishedAt": "2026-11-23T13:11:48Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/16:9/w_2048,h_1152,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+    "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data."
+  },
+  {
+    "title": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy",
+    "url": "https://www.wired.com/story/he-worked-with-doge-now-hes-bidding-for-government-contracts/",
+    "publishedAt": "2026-11-23T11:30:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6afc64e8276fa364fc470b47/16:9/w_2400,h_1350,c_limit/111726-NDS%20Gov%20Contract.jpg",
+    "summary": "Canadian citizen Yat Choi moved from DOGE to the National Design Studio before launching his own company, Govmaxxing."
+  },
+  {
     "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
     "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
     "publishedAt": "2026-11-19T13:55:56Z",
@@ -78,21 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/191:100/w_1280,c_limit/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg",
     "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize."
-  },
-  {
-    "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-    "publishedAt": "2026-11-12T15:48:12Z",
-    "source": "The Verge",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343254/STK083_B_NVIDIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The ne…"
-  },
-  {
-    "title": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era | TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-    "publishedAt": "2026-11-10T14:01:29Z",
-    "source": "TechCrunch",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/kora-os.jpg?resize=1200,800",
-    "summary": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era | TechCrunchtechcrunch.com"
   }
 ]
