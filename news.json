@@ -1,5 +1,13 @@
 [
   {
+    "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "publishedAt": "2026-11-27T07:00:00Z",
+    "source": "Wired",
+    "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/16:9/w_2128,h_1197,c_limit/QANT-CEO-QandA-Business.jpg",
+    "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations."
+  },
+  {
     "title": "Want to buy your kid an AI toy this Christmas? Not in New York. | TechCrunch",
     "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
     "publishedAt": "2026-11-25T18:13:27Z",
@@ -86,13 +94,5 @@
     "source": "Wired",
     "image": "https://media.wired.com/photos/6afb9b29276fa364fc4708a8/16:9/w_1920,h_1080,c_limit/SOCIAL_WIRED_FRAMES_TITLE_MOTION.png",
     "summary": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future."
-  },
-  {
-    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-    "publishedAt": "2026-11-17T10:47:45Z",
-    "source": "Wired",
-    "image": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/16:9/w_1664,h_936,c_limit/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
-    "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions."
   }
 ]
